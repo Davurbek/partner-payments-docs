@@ -1,0 +1,2812 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R] /Count 14 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 852 >>
+stream
+BT
+/F2 20.00 Tf
+0.100 0.200 0.500 rg
+150.14 651.89 Td
+(PARTNYOR PUL O'TKAZMALARI) Tj
+ET
+BT
+/F2 20.00 Tf
+0.100 0.200 0.500 rg
+198.14 621.89 Td
+(MONITORING TIZIMI) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+174.14 586.89 Td
+(FUNKSIYALAR SPESIFIKATSIYASI) Tj
+ET
+BT
+/F2 13.00 Tf
+0.300 0.300 0.300 rg
+112.94 552.39 Td
+(To'liq texnik hujjat - F1 dan F14 gacha batafsil) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+191.24 494.89 Td
+(Tashkilot turi: kommertsiya banki) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+168.14 478.39 Td
+(Asosiy foydalanuvchi: bek-ofis operatori) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+220.94 461.89 Td
+(Partnyorlar soni: 3-4 ta) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+118.64 445.39 Td
+(Backend: .NET 10  |  Frontend: Vue 3  |  DB: PostgreSQL) Tj
+ET
+BT
+/F1 10.00 Tf
+0.300 0.300 0.300 rg
+252.14 399.89 Td
+(Sana: 14.06.2026) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1912 >>
+stream
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 756.89 Td
+(Mundarija) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 745.39 m 545.28 745.39 l S
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 725.89 Td
+(- Kirish va belgilanishlar) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 710.14 Td
+(- Mavjud funksiyalar \(boshliq ko'rgan\):) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 694.39 Td
+(-   F1.  Yagona tranzaksiyalar ro'yxati) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 678.64 Td
+(-   F2.  Filtr) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 662.89 Td
+(-   F3.  Qidiruv) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 647.14 Td
+(-   F4.  Tafsilot modali) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 631.39 Td
+(-   F5.  Xatolar paneli) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 615.64 Td
+(-   F6.  Xato yozuvlar ro'yxati) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 599.89 Td
+(-   F7.  Excel eksport) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 584.14 Td
+(-   F8.  Foydalanuvchi va partnyor boshqaruvi) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 568.39 Td
+(- Qo'shimcha funksiyalar \(boshliq talabi bo'yicha\):) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 552.64 Td
+(-   F9.  Retry / qayta yuborish) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 536.89 Td
+(-   F10. Bosh sahifa dashboard widgetlari) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 521.14 Td
+(-   F11. Izoh va status tarixi) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 505.39 Td
+(-   F12. Audit jurnali \(lite\)) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 489.64 Td
+(-   F13. Bildirishnoma \(threshold alert\)) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 473.89 Td
+(-   F14. Parol o'zgartirish va 2FA) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 458.14 Td
+(- Yangi DB jadvallari \(jamlanma\)) Tj
+ET
+BT
+/F1 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 442.39 Td
+(- Yangilangan bajarilish rejasi) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 1583 >>
+stream
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 756.89 Td
+(Kirish va belgilanishlar) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 745.39 m 545.28 745.39 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 726.39 Td
+(Ushbu hujjat asosiy Texnik_Hujjat.pdf ning funksiyalarini batafsil ochib beradi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 711.39 Td
+(va boshliq talabi bo'yicha qo'shilgan yangi funksiyalarni \(F9-F14\) qo'shadi. Har) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 696.39 Td
+(bir funksiya bir xil formatda yozilgan: maqsad, aktor, kirish, chiqish, xato) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 681.39 Td
+(holatlari, UI va API.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 656.89 Td
+(Rollar) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 639.64 Td
+(- operator - bek-ofis xodimi, asosiy foydalanuvchi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 624.64 Td
+(- admin - foydalanuvchi va partnyor boshqaruvi, sozlamalar.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 609.64 Td
+(- auditor - faqat o'qish \(audit jurnali\). F12 da paydo bo'ladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 589.14 Td
+(Status qiymatlari) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 570.39 Td
+(created, sent, pending, paid, cancelled, failed) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 547.64 Td
+(Xato toifalari \(error_category\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 528.89 Td
+(KYC_FAIL, INSUFFICIENT_FUNDS, BENEFICIARY_NOT_FOUND,) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 516.14 Td
+(LIMIT_EXCEEDED, TIMEOUT, CANCELLED_BY_SENDER, OTHER) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3905 >>
+stream
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 756.89 Td
+(MAVJUD FUNKSIYALAR \(F1 - F8\)) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 745.39 m 545.28 745.39 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 726.39 Td
+(Quyidagi funksiyalar asosiy hujjatda qisqa berilgan edi - bu yerda batafsil ochib) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 711.39 Td
+(berilgan.) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 677.39 Td
+(F1. Yagona tranzaksiyalar ro'yxati) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 665.89 m 545.28 665.89 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 646.89 Td
+(Barcha 3-4 partnyordan kelgan o'tkazmalarni bitta jadvalda ko'rsatadi. Bu) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 631.89 Td
+(tizimning asosiy ish ekrani. Standart holatda bugungi yozuvlar, eng yangisi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 616.89 Td
+(yuqorida.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 592.39 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 575.14 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 550.64 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 533.39 Td
+(- So'rov parametrlari: sahifa \(page\), bir sahifadagi soni \(limit, standart 50\),) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 518.39 Td
+(  saralash \(sent_at bo'yicha kamayuvchi\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 503.39 Td
+(- Filtr va qidiruv parametrlari F2, F3 dan keladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 482.89 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 465.64 Td
+(- Jadval. Ustunlar: sana \(sent_at\), partnyor, status, yo'nalish) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 450.64 Td
+(  \(INCOMING/OUTGOING\), summa va valyuta, mijoz F.I.Sh, error_category.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 435.64 Td
+(- Sahifalash: jami soni, joriy sahifa, oldingi/keyingi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 420.64 Td
+(- Status rangli belgi: paid - yashil, failed - qizil, pending - sariq.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 400.14 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 382.89 Td
+(- Ma'lumot yo'q bo'lsa: 'Yozuv topilmadi' xabari.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 367.89 Td
+(- DB xatosi bo'lsa: 500 va umumiy xato xabari, log yoziladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 347.39 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 330.14 Td
+(PaymentsView.vue. Yuqorida filtr paneli, ostida jadval, pastda sahifalash.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 315.14 Td
+(Qatorerga bosilsa F4 modal ochiladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 290.64 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 269.89 m 49.00 280.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 271.89 Td
+(GET /api/payments?page=&limit=        -- rol: operator) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 239.64 Td
+(F2. Filtr) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 228.14 m 545.28 228.14 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 209.14 Td
+(Operatorga ro'yxatni partnyor, status, sana oralig'i va valyuta bo'yicha) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 194.14 Td
+(toraytirishga yordam beradi. Filtrlar birga ishlaydi \(AND\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 169.64 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 152.39 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 127.89 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 110.64 Td
+(- partner - partnyor ID yoki kodi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 95.64 Td
+(- status - bir yoki bir nechta status.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 80.64 Td
+(- from / to - sana oralig'i \(sent_at bo'yicha\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 65.64 Td
+(- currency - valyuta kodi \(USD, RUB, UZS, ...\).) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3691 >>
+stream
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 771.39 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 754.14 Td
+(- Filtrga mos yozuvlar \(F1 formatida\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 739.14 Td
+(- Faol filtrlar 'chip' ko'rinishida ko'rinadi, bittalab o'chiriladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 718.64 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 701.39 Td
+(- Noto'g'ri sana formati: 400 va tushuntirish.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 686.39 Td
+(- from > to bo'lsa: 400 'sana oralig'i noto'g'ri'.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 665.89 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 648.64 Td
+(Filtr paneli jadval ustida. 'Tozalash' tugmasi barcha filtrni oladi. Filtr) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 633.64 Td
+(o'zgarsa ro'yxat avtomatik yangilanadi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 609.14 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 588.39 m 49.00 598.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 590.39 Td
+(GET /api/payments?partner=&status=&from=&to=&currency=) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 558.14 Td
+(F3. Qidiruv) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 546.64 m 545.28 546.64 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 527.64 Td
+(Bitta o'tkazmani tez topish uchun. PaymentRef, MTCN, telefon yoki F.I.Sh bo'yicha) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 512.64 Td
+(qidiradi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 488.14 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 470.89 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 446.39 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 429.14 Td
+(- q - qidiruv matni \(bitta qator\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 414.14 Td
+(- Tizim q ni payment_ref, mtcn, partner_txn_id, sender/receiver phone va) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 399.14 Td
+(  full_name bo'yicha qidiradi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 378.64 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 361.39 Td
+(- Mos yozuvlar ro'yxati \(F1 formatida\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 346.39 Td
+(- Aniq bitta mos kelsa, to'g'ridan-to'g'ri F4 modal ochilishi mumkin.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 325.89 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 308.64 Td
+(- Bo'sh so'rov: filtrsiz ro'yxat qaytadi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 293.64 Td
+(- Hech narsa topilmasa: 'Topilmadi' xabari.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 273.14 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 255.89 Td
+(Jadval ustidagi qidiruv qatori \(lupa belgisi\). Enter bosilsa qidiradi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 231.39 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 210.64 m 49.00 221.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 212.64 Td
+(GET /api/payments?q=901234567        -- rol: operator) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 180.39 Td
+(F4. Tafsilot modali) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 168.89 m 545.28 168.89 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 149.89 Td
+(Bitta o'tkazmaning barcha maydonlarini ko'rsatadi: summa, valyuta, jo'natuvchi va) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 134.89 Td
+(qabul qiluvchi, status, xato kodi va matni.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 110.39 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 93.14 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 68.64 Td
+(Kirish \(input\)) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 3854 >>
+stream
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 771.89 Td
+(- Yo'l parametri: o'tkazma id.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 751.39 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 734.14 Td
+(- O'tkazmaning to'liq ma'lumotlari.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 719.14 Td
+(- PII \(passport, telefon\) maskalangan: +998 90 *** ** 67.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 704.14 Td
+(- Xato bo'lsa: error_category, error_code, error_message ko'rinadi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 683.64 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 666.39 Td
+(- id topilmasa: 404.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 651.39 Td
+(- Ruxsat bo'lmasa: 403.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 630.89 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 613.64 Td
+(PaymentDetailModal.vue - markaziy modal oyna. Bo'limlar: umumiy, jo'natuvchi,) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 598.64 Td
+(qabul qiluvchi, xato, vaqtlar. 'Yopish' tugmasi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 574.14 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 553.39 m 49.00 563.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 555.39 Td
+(GET /api/payments/{id}              -- rol: operator) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 523.14 Td
+(F5. Xatolar paneli) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 511.64 m 545.28 511.64 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 492.64 Td
+(Barcha xato o'tkazmalarni toifa x partnyor kesimida jadval ko'rinishida) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 477.64 Td
+(ko'rsatadi. Qaysi partnyorda qaysi sababdan nechta xato borligini bir qarashda) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 462.64 Td
+(ko'rsatadi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 438.14 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 420.89 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 396.39 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 379.14 Td
+(- from / to - sana oralig'i \(standart: oxirgi 14 kun\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 364.14 Td
+(- partner - ixtiyoriy, bitta partnyorga toraytirish.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 343.64 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 326.39 Td
+(- Toifa x partnyor jadvali: har yacheyka - xato soni.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 311.39 Td
+(- Har toifa bo'yicha jami va foiz.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 296.39 Td
+(- Umumiy jami xatolar soni.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 275.89 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 258.64 Td
+(- Tanlangan oraliqda xato yo'q: 'Xatolar yo'q' xabari \(ijobiy holat\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 238.14 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 220.89 Td
+(ErrorsDashboardView.vue. Yuqorida sana va partnyor filtri, o'rtada matritsa) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 205.89 Td
+(jadval. Yacheykaga yoki toifa nomiga bosilsa F6 ochiladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 181.39 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 160.64 m 49.00 171.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 162.64 Td
+(GET /api/errors/stats?from=&to=&partner=   -- rol: operator) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 130.39 Td
+(F6. Xato yozuvlar ro'yxati) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 118.89 m 545.28 118.89 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 99.89 Td
+(F5 da tanlangan kesim \(masalan, Partnyor 2 ning TIMEOUT xatolari\) bo'yicha aniq) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 84.89 Td
+(yozuvlar ro'yxati.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 60.39 Td
+(Asosiy aktor) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 3541 >>
+stream
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 771.89 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 747.39 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 730.14 Td
+(- error_cat - toifa.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 715.14 Td
+(- partner - partnyor \(ixtiyoriy\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 700.14 Td
+(- from / to - sana oralig'i.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 679.64 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 662.39 Td
+(- Shu kesimdagi xato o'tkazmalar \(F1 formatida + error_message ustuni\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 641.89 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 624.64 Td
+(- Mos yozuv yo'q: bo'sh ro'yxat.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 604.14 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 586.89 Td
+(F5 ostida ochiladigan panel yoki alohida ro'yxat. Qatorga bosilsa F4 modal.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 562.39 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 541.64 m 49.00 552.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 543.64 Td
+(GET /api/payments?error_cat=TIMEOUT&partner=2&from=&to=) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 511.39 Td
+(F7. Excel eksport) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 499.89 m 545.28 499.89 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 480.89 Td
+(Joriy filtr va qidiruvga mos o'tkazmalarni .xlsx faylga chiqaradi. Kunlik yoki) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 465.89 Td
+(oraliq hisobot uchun.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 441.39 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 424.14 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 399.64 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 382.39 Td
+(- Joriy filtr parametrlari \(F2, F3 dagidek\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 361.89 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 344.64 Td
+(- XLSX fayl: barcha ustunlar, sarlavha qatori, sana bilan nomlangan.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 329.64 Td
+(- PII maskalangan \(xavfsizlik\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 309.14 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 291.89 Td
+(- Juda katta hajm \(>50000 qator\): ogohlantirish, oraliqni toraytirish taklifi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 271.39 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 254.14 Td
+(Jadval ustida 'Excel' tugmasi. Bosilganda joriy filtr bilan fayl yuklab olinadi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 229.64 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 208.89 m 49.00 219.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 210.89 Td
+(GET /api/payments/export.xlsx?partner=&status=&from=&to=) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 178.64 Td
+(F8. Foydalanuvchi va partnyor boshqaruvi) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 167.14 m 545.28 167.14 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 148.14 Td
+(Admin foydalanuvchilarni \(yaratish, rol berish, faolsizlantirish\) va) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 133.14 Td
+(partnyorlarni \(qo'shish, nom o'zgartirish\) boshqaradi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 108.64 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 91.39 Td
+(admin) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 66.89 Td
+(Kirish \(input\)) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 1238 >>
+stream
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 771.89 Td
+(- Foydalanuvchi: login, F.I.Sh, rol, parol.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 756.89 Td
+(- Partnyor: kod, nom, faol/nofaol.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 736.39 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 719.14 Td
+(- Foydalanuvchilar va partnyorlar ro'yxati va CRUD natijasi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 698.64 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 681.39 Td
+(- Login takrorlansa: 400 'bunday login bor'.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 666.39 Td
+(- Oxirgi adminni o'chirishga urinish: 400 bloklaydi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 645.89 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 628.64 Td
+(AdminView.vue - 2 tab: Foydalanuvchilar va Partnyorlar. Jadval +) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 613.64 Td
+(qo'shish/tahrirlash formasi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 589.14 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 568.39 m 49.00 578.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 570.39 Td
+(GET/POST /api/admin/users    PUT /api/admin/partners/{id}  -- admin) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 3837 >>
+stream
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 756.89 Td
+(QO'SHIMCHA FUNKSIYALAR \(F9 - F14\)) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 745.39 m 545.28 745.39 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 726.39 Td
+(Boshliq talabi bo'yicha qo'shilgan yangi funksiyalar. Bular yangi DB jadvallari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 711.39 Td
+(va endpointlarni talab qiladi.) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 677.39 Td
+(F9. Retry / qayta yuborish) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 665.89 m 545.28 665.89 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 646.89 Td
+(Texnik sabab \(TIMEOUT\) bilan to'xtagan o'tkazmani operator bitta tugma bilan) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 631.89 Td
+(partnyorga qayta yuboradi. Mantiqiy xatolar \(KYC_FAIL, AML\) retry qilinmaydi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 607.39 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 590.14 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 565.64 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 548.39 Td
+(- Yo'l parametri: o'tkazma id.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 533.39 Td
+(- Tugma faqat error_category texnik \(TIMEOUT/OTHER\) bo'lganda faol.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 512.89 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 495.64 Td
+(- Yangi yuborish urinishi; status 'pending' ga o'tadi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 480.64 Td
+(- retry_count oshadi, last_retry_at yangilanadi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 460.14 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 442.89 Td
+(- retry_count limitdan oshgan \(>3\): 400 'limit tugadi'.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 427.89 Td
+(- Mantiqiy xato yozuvga retry: 400 'bu xato qayta yuborilmaydi'.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 407.39 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 390.14 Td
+(F4 modalida 'Qayta yuborish' tugmasi. Tasdiqlash dialogi bilan.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 365.64 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 344.89 m 49.00 355.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 346.89 Td
+(POST /api/payments/{id}/retry        -- rol: operator) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 332.14 m 49.00 342.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 334.14 Td
+(-- DB: ALTER TABLE payments ADD retry_count, last_retry_at) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 301.89 Td
+(F10. Bosh sahifa dashboard widgetlari) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 290.39 m 545.28 290.39 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 271.39 Td
+(Operator kirganda bosh sahifada kun holatini 4 ta widgetda ko'rsatadi: bugungi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 256.39 Td
+(o'tkazmalar soni, xatolar soni va foizi, top xato sababi, eng ko'p xato qilgan) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 241.39 Td
+(partnyor. Pastda 7 kunlik trend grafigi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 216.89 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 199.64 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 175.14 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 157.89 Td
+(- date - sana \(standart: bugun\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 142.89 Td
+(- days - trend uchun kunlar soni \(standart 7\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 122.39 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 105.14 Td
+(- 4 ta ko'rsatkich \(summary\) va trend nuqtalari massivi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 84.64 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 67.39 Td
+(- Ma'lumot yo'q kun: widgetlar 0 ko'rsatadi.) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 3991 >>
+stream
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 771.39 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 754.14 Td
+(HomeView.vue \(yangi\). 4 ta karta + chiziqli grafik \(Chart.js yoki Element Plus\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 739.14 Td
+(Kartaga bosilsa tegishli ekranga o'tadi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 714.64 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 693.89 m 49.00 704.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 695.89 Td
+(GET /api/dashboard/summary?date=     -- rol: operator) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 681.14 m 49.00 691.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 683.14 Td
+(GET /api/dashboard/trend?days=7      -- rol: operator) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 650.89 Td
+(F11. Izoh va status tarixi) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 639.39 m 545.28 639.39 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 620.39 Td
+(Operator o'tkazmaga ichki izoh yozadi va statusning o'zgarish tarixini ko'radi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 605.39 Td
+(\(created -> sent -> failed -> retry -> paid\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 580.89 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 563.64 Td
+(operator) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 539.14 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 521.89 Td
+(- Izoh uchun: payment_id, matn.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 506.89 Td
+(- Tarix uchun: payment_id.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 486.39 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 469.14 Td
+(- Izohlar ro'yxati \(kim, qachon, matn\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 454.14 Td
+(- Status tarixi: har bosqich vaqti va manbasi \(import/retry/manual\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 433.64 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 416.39 Td
+(- Bo'sh izoh: 400.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 401.39 Td
+(- payment_id topilmasa: 404.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 380.89 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 363.64 Td
+(F4 modalida 2 ta yangi blok: 'Izohlar' \(yozish maydoni bilan\) va 'Status tarixi') Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 348.64 Td
+(\(vaqt chizig'i ko'rinishida\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 324.14 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 303.39 m 49.00 313.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 305.39 Td
+(GET/POST /api/payments/{id}/notes    -- rol: operator) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 290.64 m 49.00 301.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 292.64 Td
+(GET      /api/payments/{id}/history  -- rol: operator) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 277.89 m 49.00 288.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 279.89 Td
+(-- DB: payment_notes, payment_status_history jadvallari) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 247.64 Td
+(F12. Audit jurnali \(lite\)) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 236.14 m 545.28 236.14 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 217.14 Td
+(Tizimdagi muhim harakatlar yoziladi: login, eksport, retry, izoh qo'shish,) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 202.14 Td
+(foydalanuvchi o'zgartirish. Sodda jurnal - operatorlar harakatini kuzatish uchun) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 187.14 Td
+(\(to'liq 7 yillik audit emas\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 162.64 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 145.39 Td
+(admin, auditor) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 120.89 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 103.64 Td
+(- user - foydalanuvchi bo'yicha filtr.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 88.64 Td
+(- action - harakat turi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 73.64 Td
+(- from / to - sana oralig'i.) Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 26 0 R >>
+endobj
+26 0 obj
+<< /Length 4042 >>
+stream
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 771.39 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 754.14 Td
+(- Jurnal yozuvlari: vaqt, foydalanuvchi, harakat, obyekt, IP.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 739.14 Td
+(- Eksport imkoni \(Excel\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 718.64 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 701.39 Td
+(- Auditor faqat o'qiy oladi - yozish/o'chirish yo'q.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 680.89 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 663.64 Td
+(AuditView.vue \(yangi\). Filtr + jadval. Yozuvlar o'chirilmaydi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 639.14 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 618.39 m 49.00 628.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 620.39 Td
+(GET /api/audit?user=&action=&from=&to=   -- rol: admin, auditor) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 605.64 m 49.00 616.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 607.64 Td
+(-- DB: audit_log jadvali) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 575.39 Td
+(F13. Bildirishnoma \(threshold alert\)) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 563.89 m 545.28 563.89 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 544.89 Td
+(Xatolar soni belgilangan chegaradan oshsa, tizim avtomatik email yoki Telegram) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 529.89 Td
+(orqali xabar yuboradi. Operator kutmasdan muammodan xabardor bo'ladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 505.39 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 488.14 Td
+(admin \(qoidalarni sozlaydi\)) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 463.64 Td
+(Kirish \(input\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 446.39 Td
+(- Qoida: partnyor \(ixtiyoriy\), toifa \(ixtiyoriy\), chegara, vaqt oynasi \(daqiqa\),) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 431.39 Td
+(  kanal \(email/telegram\), manzil.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 410.89 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 393.64 Td
+(- Chegara oshganda: ogohlantirish yuboriladi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 378.64 Td
+(- Cooldown: bir xil ogohlantirish takror yuborilmaydi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 358.14 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 340.89 Td
+(- Noto'g'ri kanal/manzil: 400.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 325.89 Td
+(- Yuborish xatosi: log yoziladi, keyingi tsiklda qayta urinadi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 305.39 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 288.14 Td
+(AdminView.vue ga 'Ogohlantirishlar' tab. Background service har 10-15 daqiqada) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 273.14 Td
+(tekshiradi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 248.64 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 227.89 m 49.00 238.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 229.89 Td
+(GET/POST /api/admin/alert-rules      -- rol: admin) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 215.14 m 49.00 225.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 217.14 Td
+(PUT      /api/admin/alert-rules/{id} -- rol: admin) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 202.39 m 49.00 212.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 204.39 Td
+(-- DB: alert_rules jadvali) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 172.14 Td
+(F14. Parol o'zgartirish va 2FA) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 160.64 m 545.28 160.64 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 141.64 Td
+(Foydalanuvchi o'z parolini o'zgartiradi. Ixtiyoriy 2FA \(TOTP - Google) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 126.64 Td
+(Authenticator\) qo'llab-quvvatlanadi; admin uni majburiy qilishi mumkin.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 102.14 Td
+(Asosiy aktor) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 84.89 Td
+(hammasi) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 60.39 Td
+(Kirish \(input\)) Tj
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 28 0 R >>
+endobj
+28 0 obj
+<< /Length 1998 >>
+stream
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 771.89 Td
+(- Parol: eski parol, yangi parol.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 756.89 Td
+(- 2FA setup: foydalanuvchi tasdiqlaydi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 741.89 Td
+(- Login: parol + 6 raqamli kod \(agar 2FA yoqilgan bo'lsa\).) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 721.39 Td
+(Chiqish \(output\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 704.14 Td
+(- Parol yangilanadi \(BCrypt hash\).) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 689.14 Td
+(- 2FA yoqilganda QR kod va zaxira kodlar beriladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 668.64 Td
+(Xato holatlari) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 651.39 Td
+(- Eski parol noto'g'ri: 400.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 636.39 Td
+(- Yangi parol kuchsiz: 400 talablar bilan.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 621.39 Td
+(- 2FA kod noto'g'ri: 401.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 600.89 Td
+(UI ko'rinishi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 583.64 Td
+(ProfileView.vue \(yangi\): parol o'zgartirish va 2FA sozlash. LoginView 2 bosqichli) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 568.64 Td
+(bo'ladi.) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 544.14 Td
+(API) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 523.39 m 49.00 533.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 525.39 Td
+(POST /api/auth/change-password       -- rol: hammasi) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 510.64 m 49.00 521.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 512.64 Td
+(POST /api/auth/2fa/setup             -- rol: hammasi) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 497.89 m 49.00 508.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 499.89 Td
+(POST /api/auth/2fa/verify            -- login paytida) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 485.14 m 49.00 495.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 487.14 Td
+(-- DB: ALTER TABLE users ADD totp_secret, totp_enabled) Tj
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 30 0 R >>
+endobj
+30 0 obj
+<< /Length 7467 >>
+stream
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 756.89 Td
+(Yangi DB jadvallari \(jamlanma\)) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 745.39 m 545.28 745.39 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 726.39 Td
+(F9-F14 quyidagi DB o'zgarishlarini talab qiladi. Bular asosiy 4 ta jadval \(roles,) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 711.39 Td
+(users, partners, payments\) ustiga qo'shiladi.) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 688.89 m 49.00 699.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 690.89 Td
+(-- F9: payments ga ustunlar) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 676.14 m 49.00 686.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 678.14 Td
+(ALTER TABLE payments ADD COLUMN retry_count   SMALLINT DEFAULT 0;) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 663.39 m 49.00 673.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 665.39 Td
+(ALTER TABLE payments ADD COLUMN last_retry_at TIMESTAMP;) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 650.64 m 49.00 661.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 652.64 Td
+() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 637.89 m 49.00 648.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 639.89 Td
+(-- F11: izoh va status tarixi) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 625.14 m 49.00 635.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 627.14 Td
+(CREATE TABLE payment_notes \() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 612.39 m 49.00 622.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 614.39 Td
+(    id BIGSERIAL PRIMARY KEY,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 599.64 m 49.00 610.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 601.64 Td
+(    payment_id BIGINT NOT NULL REFERENCES payments\(id\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 586.89 m 49.00 597.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 588.89 Td
+(    user_id INT NOT NULL REFERENCES users\(id\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 574.14 m 49.00 584.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 576.14 Td
+(    note TEXT NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 561.39 m 49.00 571.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 563.39 Td
+(    created_at TIMESTAMP DEFAULT now\(\)) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 548.64 m 49.00 559.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 550.64 Td
+(\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 535.89 m 49.00 546.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 537.89 Td
+() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 523.14 m 49.00 533.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 525.14 Td
+(CREATE TABLE payment_status_history \() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 510.39 m 49.00 520.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 512.39 Td
+(    id BIGSERIAL PRIMARY KEY,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 497.64 m 49.00 508.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 499.64 Td
+(    payment_id BIGINT NOT NULL REFERENCES payments\(id\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 484.89 m 49.00 495.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 486.89 Td
+(    old_status VARCHAR\(20\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 472.14 m 49.00 482.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 474.14 Td
+(    new_status VARCHAR\(20\) NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 459.39 m 49.00 469.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 461.39 Td
+(    changed_at TIMESTAMP DEFAULT now\(\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 446.64 m 49.00 457.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 448.64 Td
+(    source VARCHAR\(20\)) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 433.89 m 49.00 444.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 435.89 Td
+(\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 415.14 m 49.00 425.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 417.14 Td
+(-- F12: audit jurnali) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 402.39 m 49.00 412.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 404.39 Td
+(CREATE TABLE audit_log \() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 389.64 m 49.00 400.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 391.64 Td
+(    id BIGSERIAL PRIMARY KEY,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 376.89 m 49.00 387.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 378.89 Td
+(    ts TIMESTAMP DEFAULT now\(\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 364.14 m 49.00 374.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 366.14 Td
+(    user_id INT REFERENCES users\(id\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 351.39 m 49.00 361.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 353.39 Td
+(    user_login VARCHAR\(100\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 338.64 m 49.00 349.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 340.64 Td
+(    action VARCHAR\(40\) NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 325.89 m 49.00 336.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 327.89 Td
+(    entity_type VARCHAR\(40\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 313.14 m 49.00 323.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 315.14 Td
+(    entity_id VARCHAR\(64\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 300.39 m 49.00 310.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 302.39 Td
+(    ip_address VARCHAR\(45\)) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 287.64 m 49.00 298.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 289.64 Td
+(\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 274.89 m 49.00 285.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 276.89 Td
+() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 262.14 m 49.00 272.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 264.14 Td
+(-- F13: ogohlantirish qoidalari) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 249.39 m 49.00 259.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 251.39 Td
+(CREATE TABLE alert_rules \() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 236.64 m 49.00 247.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 238.64 Td
+(    id SERIAL PRIMARY KEY,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 223.89 m 49.00 234.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 225.89 Td
+(    partner_id INT REFERENCES partners\(id\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 211.14 m 49.00 221.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 213.14 Td
+(    error_category VARCHAR\(40\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 198.39 m 49.00 208.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 200.39 Td
+(    threshold INT NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 185.64 m 49.00 196.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 187.64 Td
+(    window_minutes INT NOT NULL DEFAULT 60,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 172.89 m 49.00 183.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 174.89 Td
+(    channel VARCHAR\(20\) NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 160.14 m 49.00 170.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 162.14 Td
+(    target VARCHAR\(200\) NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 147.39 m 49.00 157.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 149.39 Td
+(    is_active BOOLEAN DEFAULT true) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 134.64 m 49.00 145.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 136.64 Td
+(\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 121.89 m 49.00 132.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 123.89 Td
+() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 109.14 m 49.00 119.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 111.14 Td
+(-- F14: users ga 2FA ustunlari) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 96.39 m 49.00 106.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 98.39 Td
+(ALTER TABLE users ADD COLUMN totp_secret  VARCHAR\(255\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 83.64 m 49.00 94.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 85.64 Td
+(ALTER TABLE users ADD COLUMN totp_enabled BOOLEAN DEFAULT false;) Tj
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 32 0 R >>
+endobj
+32 0 obj
+<< /Length 1927 >>
+stream
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 766.89 Td
+(Yangilangan bajarilish rejasi) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 755.39 m 545.28 755.39 l S
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 734.89 Td
+(Asosiy qism \(F1-F8\):                        4 hafta) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 722.14 Td
+() Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 709.39 Td
+(Qo'shimcha funksiyalar \(F9-F14\):) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 696.64 Td
+(  F9   Retry / qayta yuborish               2-3 kun) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 683.89 Td
+(  F10  Dashboard widgetlari                 2-3 kun) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 671.14 Td
+(  F11  Izoh va status tarixi                2-3 kun) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 658.39 Td
+(  F12  Audit jurnali \(lite\)                 2 kun) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 645.64 Td
+(  F13  Bildirishnoma                        3-4 kun) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 632.89 Td
+(  F14  Parol o'zgartirish va 2FA            3-4 kun) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 620.14 Td
+(  -----------------------------------------------) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 607.39 Td
+(  Qo'shimcha jami:                          ~2.5-3 hafta) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 594.64 Td
+() Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 581.89 Td
+(Yakuniy taxminiy muddat:                    6.5-7 hafta) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 556.64 Td
+(Eslatma: F9-F14 ni asosiy qismdan keyin alohida bosqich sifatida yoki ba'zilarini) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 541.64 Td
+(parallel ravishda qilish mumkin. Boshliq muhimligiga qarab tartibni belgilashi) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 526.64 Td
+(mumkin.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 497.64 Td
+(--- Hujjat yakuni ---) Tj
+ET
+endstream
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000211 00000 n 
+0000000306 00000 n 
+0000000406 00000 n 
+0000000548 00000 n 
+0000001451 00000 n 
+0000001593 00000 n 
+0000003557 00000 n 
+0000003700 00000 n 
+0000005336 00000 n 
+0000005480 00000 n 
+0000009438 00000 n 
+0000009582 00000 n 
+0000013326 00000 n 
+0000013470 00000 n 
+0000017377 00000 n 
+0000017521 00000 n 
+0000021115 00000 n 
+0000021259 00000 n 
+0000022550 00000 n 
+0000022694 00000 n 
+0000026584 00000 n 
+0000026728 00000 n 
+0000030772 00000 n 
+0000030916 00000 n 
+0000035011 00000 n 
+0000035155 00000 n 
+0000037206 00000 n 
+0000037350 00000 n 
+0000044870 00000 n 
+0000045014 00000 n 
+trailer
+<< /Size 33 /Root 1 0 R >>
+startxref
+46994
+%%EOF
