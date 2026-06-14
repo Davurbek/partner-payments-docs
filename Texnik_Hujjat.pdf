@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R] /Count 15 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R] /Count 12 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
@@ -16,55 +16,55 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 760 >>
+<< /Length 761 >>
 stream
 BT
 /F2 20.00 Tf
 0.100 0.200 0.500 rg
-156.14 651.89 Td
-(XALQARO PUL O'TKAZMALARI) Tj
+150.14 651.89 Td
+(PARTNYOR PUL O'TKAZMALARI) Tj
 ET
 BT
 /F2 20.00 Tf
 0.100 0.200 0.500 rg
-126.14 621.89 Td
-(BIRLASHTIRILGAN MONITORING VA) Tj
-ET
-BT
-/F2 20.00 Tf
-0.100 0.200 0.500 rg
-222.14 591.89 Td
-(SVERKA TIZIMI) Tj
+198.14 621.89 Td
+(MONITORING TIZIMI) Tj
 ET
 BT
 /F2 13.00 Tf
 0.300 0.300 0.300 rg
-148.04 554.89 Td
-(Bank bek-ofisi uchun texnik hujjat \(TZ\)) Tj
+120.74 584.89 Td
+(Bank ichki dashboardi uchun texnik hujjat \(TZ\)) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-191.24 497.39 Td
+191.24 527.39 Td
 (Tashkilot turi: kommertsiya banki) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-148.34 480.89 Td
-(Asosiy foydalanuvchi: bek-ofis / sverka xodimi) Tj
+168.14 510.89 Td
+(Asosiy foydalanuvchi: bek-ofis operatori) Tj
 ET
 BT
 /F1 11.00 Tf
 0.000 0.000 0.000 rg
-118.64 464.39 Td
+220.94 494.39 Td
+(Partnyorlar soni: 3-4 ta) Tj
+ET
+BT
+/F1 11.00 Tf
+0.000 0.000 0.000 rg
+118.64 477.89 Td
 (Backend: .NET 10  |  Frontend: Vue 3  |  DB: PostgreSQL) Tj
 ET
 BT
 /F1 10.00 Tf
 0.300 0.300 0.300 rg
-252.14 418.89 Td
-(Sana: 12.06.2026) Tj
+252.14 432.39 Td
+(Sana: 14.06.2026) Tj
 ET
 endstream
 endobj
@@ -72,7 +72,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 1740 >>
+<< /Length 1481 >>
 stream
 BT
 /F2 15.00 Tf
@@ -93,7 +93,7 @@ BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 710.14 Td
-(- 2.  Hal qilinadigan muammolar) Tj
+(- 2.  Hozirgi muammo va taklif etilayotgan yechim) Tj
 ET
 BT
 /F1 10.50 Tf
@@ -117,73 +117,55 @@ BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 647.14 Td
-(- 6.  Xalqaro o'tkazmaning ma'lumot maydonlari) Tj
+(- 6.  O'tkazmaning ma'lumot maydonlari) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 631.39 Td
-(- 7.  Sverka \(reconciliation\) oqimi) Tj
+(- 7.  Xato toifalari va xatolar paneli) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 615.64 Td
-(- 8.  Xato o'tkazmalar bilan ishlash) Tj
+(- 8.  Tizim arxitekturasi) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 599.89 Td
-(- 9.  Audit jurnali va NBU hisoboti) Tj
+(- 9.  Ma'lumotlar bazasi \(PostgreSQL\)) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 584.14 Td
-(- 10. Tizim arxitekturasi) Tj
+(- 10. Backend modellar \(.NET 10\)) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 568.39 Td
-(- 11. Ma'lumotlar bazasi \(SQL\)) Tj
+(- 11. API endpointlar) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 552.64 Td
-(- 12. Backend modellar \(.NET 10\)) Tj
+(- 12. Frontend ekranlar \(Vue 3\)) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 536.89 Td
-(- 13. API endpointlar) Tj
+(- 13. Xavfsizlik va kirish nazorati) Tj
 ET
 BT
 /F1 10.50 Tf
 0.000 0.000 0.000 rg
 55.00 521.14 Td
-(- 14. Frontend \(Vue 3\)) Tj
-ET
-BT
-/F1 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 505.39 Td
-(- 15. Xavfsizlik va kirish nazorati) Tj
-ET
-BT
-/F1 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 489.64 Td
-(- 16. Bajarilish ketma-ketligi \(rejasi\)) Tj
-ET
-BT
-/F1 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 473.89 Td
-(- 17. Loyihani ishga tushirish) Tj
+(- 14. Bajarilish rejasi va ishga tushirish) Tj
 ET
 endstream
 endobj
@@ -191,7 +173,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Length 4836 >>
+<< /Length 4916 >>
 stream
 BT
 /F2 15.00 Tf
@@ -206,256 +188,250 @@ BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 726.39 Td
-(Bank bek-ofisi har kuni 8 ta xalqaro pul o'tkazma tizimi bilan ishlaydi: Western) Tj
+(Bank o'zining 3-4 ta partnyori orqali pul o'tkazmalarini amalga oshiradi. Har bir) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 711.39 Td
-(Union, MoneyGram, KoronaPay, Unistream, Contact, Ria, Zolotaya Korona va Asia) Tj
+(partnyorning o'z portali va o'z formati bor. Bek-ofis operatori har kuni har bir) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 696.39 Td
-(Express. Har bir tizimning o'z portali, o'z hisobot fayli va o'z formati bor. Bu) Tj
+(portalga alohida kirib, tranzaksiyalarni va xato yozuvlarni qo'lda kuzatishga) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 681.39 Td
-(vaziyatda kunlik sverka, xatolarni tahlil qilish va NBU hisobotini tayyorlash) Tj
+(majbur. Bu vaqt oladi va xatolarni o'z vaqtida topishga to'sqinlik qiladi.) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 666.39 Td
-(o'ta mehnattalab.) Tj
+55.00 662.39 Td
+(Loyihaning maqsadi - 3-4 ta partnyordan kelgan o'tkazmalarni yagona bazaga) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 647.39 Td
-(Loyihaning maqsadi - barcha partnyor tizimlardan kelgan o'tkazmalarni yagona) Tj
+(to'plash va bek-ofis operatoriga bitta veb interfeys orqali kunlik kuzatuv hamda) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 632.39 Td
-(ma'lumotlar bazasida to'plash va bek-ofis xodimiga bitta veb interfeys orqali) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 617.39 Td
-(ko'rish, qidirish, sverka qilish va hisobot olish imkonini beradigan ichki bank) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 602.39 Td
-(tizimini yaratish.) Tj
+(xatolarni darhol ko'rish imkonini beradigan ichki bank dashboardini yaratish.) Tj
 ET
 BT
 /F2 12.00 Tf
 0.140 0.180 0.420 rg
-55.00 572.39 Td
+55.00 602.39 Td
+(Aniq cheklov \(scope\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 582.39 Td
+(- Bu - ichki bank tizimi. Partnyorlar va mijozlar tashqaridan kira olmaydi.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 567.39 Td
+(- Foydalanuvchi - faqat bank xodimi: bek-ofis operatori va admin.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 552.39 Td
+(- Tizim 2 ta asosiy ekrandan iborat: tranzaksiyalar ro'yxati va xatolar paneli.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 537.39 Td
+(- Birinchi versiyada sverka, NBU 402 va AML hisobotlari kiritilmagan. Kerak) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 522.39 Td
+(  bo'lsa keyingi versiyalarda qo'shiladi.) Tj
+ET
+BT
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 496.39 Td
 (Asosiy g'oya) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 550.89 Td
-(  Western Union --\\) Tj
+55.00 474.89 Td
+(  Partnyor 1 --\\) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 538.14 Td
-(  MoneyGram     --|) Tj
+55.00 462.14 Td
+(  Partnyor 2 --|     +---------------------+      +------------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 525.39 Td
-(  KoronaPay     --|     +---------------------+      +-----------+) Tj
+55.00 449.39 Td
+(  Partnyor 3 --| ==> | Yagona o'tkazmalar  | <==> | Bek-ofis   |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 512.64 Td
-(  Unistream     --| ==> | Yagona o'tkazmalar  | <==> | Bek-ofis  |) Tj
+55.00 436.64 Td
+(  Partnyor 4 --/     | bazasi \(PostgreSQL\) |      | operatori  |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 499.89 Td
-(  Contact       --|     | bazasi \(PostgreSQL\) |      | xodimi    |) Tj
+55.00 423.89 Td
+(                     +----------+----------+      +-----+------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 487.14 Td
-(  Ria           --|     +----------+----------+      +-----+-----+) Tj
+55.00 411.14 Td
+(                                |                       |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 474.39 Td
-(  Z. Korona     --|                |                       |) Tj
+55.00 398.39 Td
+(                                v                       v) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 461.64 Td
-(  Asia Express  --/                v                       v) Tj
+55.00 385.64 Td
+(                          Excel eksport         Tranzaksiyalar va) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 448.89 Td
-(                          NBU hisobotlari        Sverka, xatolar,) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 436.14 Td
-(                          va audit jurnali        qidiruv, modal) Tj
+55.00 372.89 Td
+(                          \(kunlik/oraliq\)        xatolar dashboardi) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 403.89 Td
-(2. Hal qilinadigan muammolar) Tj
+55.00 340.64 Td
+(2. Hozirgi muammo va taklif etilayotgan yechim) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 392.39 m 545.28 392.39 l S
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 373.39 Td
-(Hujjatdagi har bir funksiya quyidagi 3 ta asosiy muammodan bittasini yechadi.) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 358.39 Td
-(Ro'yxat aniq:) Tj
-ET
+55.00 329.14 m 545.28 329.14 l S
 BT
 /F2 12.00 Tf
 0.140 0.180 0.420 rg
-55.00 328.39 Td
-(Muammo 1. Sverka \(reconciliation\) qo'lda qilinmoqda) Tj
+55.00 299.14 Td
+(Muammo) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 306.89 Td
+55.00 277.64 Td
 (Hozirgi holat:) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 294.14 Td
-(  - Har kuni har bir partnyordan Excel/CSV fayl yuklanadi.) Tj
+55.00 264.89 Td
+(  - Har bir partnyorning o'z portali bor \(3-4 ta alohida tizim\).) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 281.39 Td
-(  - Xodim qo'lda ABS bilan solishtiradi: PaymentRef, summa, sana.) Tj
+55.00 252.14 Td
+(  - Operator har kuni har biriga alohida login qiladi va) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 268.64 Td
-(  - 1 partnyor uchun ~200-500 ta o'tkazma, 8 partnyor x 1-2 soat.) Tj
+55.00 239.39 Td
+(    o'tkazmalarni qo'lda ko'rib chiqadi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 255.89 Td
-(  - Inson xatosi yuqori, farqlarni topish kech bo'ladi.) Tj
+55.00 226.64 Td
+(  - Xato bo'lgan yozuvlar har bir portalda alohida joylashgan,) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 243.14 Td
-() Tj
+55.00 213.89 Td
+(    xato sabablari turli formatda yoziladi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 230.39 Td
-(Yechim \(tizim\):) Tj
+55.00 201.14 Td
+(  - Mijozga javob berish uchun operator har bir portalga qaraydi -) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 217.64 Td
-(  - Partnyor faylini yuklab, avtomatik moslash \(matching\).) Tj
+55.00 188.39 Td
+(    bu vaqt oladi va xatolarga olib keladi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 204.89 Td
-(  - 'Faqat partnyorda bor', 'faqat bizda bor', 'summa farq qiladi') Tj
+55.00 175.64 Td
+(  - 'Qaysi partnyorda qancha xato bor, qaysi sababdan ko'p?' degan) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 192.14 Td
-(    kategoriyalari avtomatik ajraladi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 179.39 Td
-(  - Sverka aktiga 1 tugma bilan tayyor PDF/Excel chiqaradi.) Tj
+55.00 162.89 Td
+(    savolga tezda javob bera olmaydi.) Tj
 ET
 BT
 /F2 12.00 Tf
 0.140 0.180 0.420 rg
-55.00 151.14 Td
-(Muammo 2. Xato o'tkazmalarni kuzatish qiyin) Tj
+55.00 134.64 Td
+(Yechim) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 129.64 Td
-(Hozirgi holat:) Tj
+55.00 113.14 Td
+(Yangi tizim:) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 116.89 Td
-(  - Xato bo'lgan o'tkazmalar har bir partnyor portalida alohida.) Tj
+55.00 100.39 Td
+(  - 3-4 ta partnyordan kelgan o'tkazmalarni yagona bazada to'playdi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 104.14 Td
-(  - Xato sabablari turli formatda \(kod, matn, til\).) Tj
+55.00 87.64 Td
+(  - Bek-ofis operatoriga 1 ta dashboardda hammasini ko'rish imkonini) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 91.39 Td
-(  - Mijozga javob berish uchun xodim har bir portalga qaraydi.) Tj
+55.00 74.89 Td
+(    beradi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 78.64 Td
-() Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 65.89 Td
-(Yechim \(tizim\):) Tj
+55.00 62.14 Td
+(  - Xatolarni alohida 'Xatolar paneli' ekranida toifa bo'yicha) Tj
 ET
 endstream
 endobj
@@ -463,295 +439,283 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
 endobj
 12 0 obj
-<< /Length 5505 >>
+<< /Length 5072 >>
 stream
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 773.39 Td
-(  - Barcha xato o'tkazmalar yagona dashboardda.) Tj
+(    ko'rsatadi: KYC_FAIL, INSUFFICIENT_FUNDS, TIMEOUT va h.k.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 760.64 Td
-(  - Xato sabablari me'yorlashtirilgan toifaga ajratiladi:) Tj
+(  - Filtr va qidiruv: partnyor, status, sana, payment_ref, MTCN,) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 747.89 Td
-(    KYC_FAIL, AML_HOLD, BENEFICIARY_NOT_FOUND, LIMIT_EXCEEDED,) Tj
+(    telefon, F.I.Sh.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 735.14 Td
-(    TECH_TIMEOUT, CANCELLED_BY_SENDER va h.k.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 722.39 Td
-(  - Statistika: qaysi partnyorda nechta, qaysi sababdan ko'p.) Tj
-ET
-BT
-/F2 12.00 Tf
-0.140 0.180 0.420 rg
-55.00 694.14 Td
-(Muammo 3. Audit / NBU hisoboti uchun tarix yo'q) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 672.64 Td
-(Hozirgi holat:) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 659.89 Td
-(  - Tarix har bir partnyor portalida 30-90 kun saqlanadi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 647.14 Td
-(  - Eski o'tkazmalarni topish uchun partnyorga so'rov yuboriladi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 634.39 Td
-(  - NBU forma 402 va shubhali operatsiyalar \(AML\) hisoboti uchun) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 621.64 Td
-(    ma'lumot yig'ish kunlab vaqt oladi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 608.89 Td
-() Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 596.14 Td
-(Yechim \(tizim\):) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 583.39 Td
-(  - O'tkazmalar bizning bazada 7 yil saqlanadi \(NBU talabi\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 570.64 Td
-(  - Har qanday o'zgarish \(status, sverka holati\) audit jurnalida) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 557.89 Td
-(    yoziladi: kim, qachon, nima qildi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 545.14 Td
-(  - NBU hisoboti tugma orqali tayyor formatda chiqariladi.) Tj
+(  - Excel eksport - kunlik yoki oraliq hisobot uchun.) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 512.89 Td
+55.00 702.89 Td
 (3. Tizim foydalanuvchilari va rollari) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 501.39 m 545.28 501.39 l S
+55.00 691.39 m 545.28 691.39 l S
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 480.89 Td
-(+----------------+--------------------------+--------------------------+) Tj
+55.00 670.89 Td
+(+----------+--------------------------+----------------------------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 468.14 Td
-(| Rol            | Kim                      | Asosiy harakatlar        |) Tj
+55.00 658.14 Td
+(| Rol      | Kim                      | Asosiy harakatlar          |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 455.39 Td
-(+----------------+--------------------------+--------------------------+) Tj
+55.00 645.39 Td
+(+----------+--------------------------+----------------------------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 442.64 Td
-(| sverka_officer | Bek-ofis sverka xodimi   | Ro'yxat, modal, sverka,  |) Tj
+55.00 632.64 Td
+(| operator | Bek-ofis xodimi          | Tranzaksiyalar ro'yxati,   |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 429.89 Td
-(|                | \(asosiy aktor\)           | partnyor fayl yuklash,   |) Tj
+55.00 619.89 Td
+(|          | \(asosiy aktor\)           | filtr, qidiruv, tafsilot,  |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 417.14 Td
-(|                |                          | farqlarni hal qilish.    |) Tj
+55.00 607.14 Td
+(|          |                          | xatolar paneli, eksport.   |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 404.39 Td
-(|                |                          |                          |) Tj
+55.00 594.39 Td
+(|          |                          |                            |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 391.64 Td
-(| compliance     | Compliance/AML xodimi    | Xato/shubhali o'tkazma   |) Tj
+55.00 581.64 Td
+(| admin    | IT/bek-ofis administra-  | Foydalanuvchilarni va      |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 378.89 Td
-(|                |                          | tahlili, AML hisoboti.   |) Tj
+55.00 568.89 Td
+(|          | tori                     | partnyorlarni boshqarish.  |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 366.14 Td
-(|                |                          |                          |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 353.39 Td
-(| auditor        | Ichki audit / NBU bilan  | Faqat o'qish; tarix,     |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 340.64 Td
-(|                | bog'lovchi               | jurnal, hisobot eksport. |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 327.89 Td
-(|                |                          |                          |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 315.14 Td
-(| admin          | IT administrator         | Foydalanuvchi, partnyor  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 302.39 Td
-(|                |                          | va tizim sozlamalari.    |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 289.64 Td
-(+----------------+--------------------------+--------------------------+) Tj
+55.00 556.14 Td
+(+----------+--------------------------+----------------------------+) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 272.39 Td
-(Eslatma: Mijozga to'g'ridan-to'g'ri ko'rinish bermaymiz - bu ichki bank tizimi.) Tj
+55.00 538.89 Td
+(Tizim faqat bank ichida ishlaydi. Partnyorlar va mijozlar uchun tashqi kirish) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 523.89 Td
+(nazarda tutilmagan.) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 238.39 Td
+55.00 489.89 Td
 (4. Foydalanuvchi senariylari \(use-case\)) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 226.89 m 545.28 226.89 l S
+55.00 478.39 m 545.28 478.39 l S
 BT
 /F2 12.00 Tf
 0.140 0.180 0.420 rg
-55.00 196.89 Td
-(UC-1. Kunlik sverka) Tj
+55.00 448.39 Td
+(UC-1. Kunlik tranzaksiya kuzatuvi) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 175.39 Td
-(Aktor: sverka_officer) Tj
+55.00 426.89 Td
+(Aktor: operator) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 162.64 Td
+55.00 414.14 Td
 (Boshlanish: ish kuni boshida \(08:30\).) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 149.89 Td
+55.00 401.39 Td
 (Qadamlar:) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 137.14 Td
-(  1. Tizimga kiradi.) Tj
+55.00 388.64 Td
+(  1. Tizimga kiradi \(login + parol\).) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 124.39 Td
-(  2. 'Sverka' bo'limini ochadi, partnyorni tanlaydi \(mas. KoronaPay\).) Tj
+55.00 375.89 Td
+(  2. 'Tranzaksiyalar' ekrani avtomatik ochiladi - bugungi yozuvlar.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 111.64 Td
-(  3. Partnyordan kelgan kunlik faylni \(CSV/Excel\) yuklaydi.) Tj
+55.00 363.14 Td
+(  3. Partnyor yoki status bo'yicha filtr qo'yadi \(kerak bo'lsa\).) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 98.89 Td
-(  4. Tizim avtomatik moslashtiradi va 4 ta toifaga ajratadi:) Tj
+55.00 350.39 Td
+(  4. Yangi yozuvlarni ko'rib chiqadi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 86.14 Td
-(     - moslashgan \(matched\)) Tj
+55.00 337.64 Td
+(Natija: 4 ta portal o'rniga 1 ekrandan barcha o'tkazmalar ko'rinadi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 73.39 Td
-(     - faqat partnyorda \(missing_in_bank\)) Tj
+55.00 324.89 Td
+(        Vaqt: ~10 daqiqa \(avval ~1 soat\).) Tj
+ET
+BT
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 296.64 Td
+(UC-2. Xatolarni tahlil qilish) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 60.64 Td
-(     - faqat bankda \(missing_in_partner\)) Tj
+55.00 275.14 Td
+(Aktor: operator) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 262.39 Td
+(Boshlanish: dashboardda xato yozuvlar ko'rindi yoki mijoz qo'ng'iroq qildi.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 249.64 Td
+(Qadamlar:) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 236.89 Td
+(  1. 'Xatolar paneli' bo'limini ochadi.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 224.14 Td
+(  2. Toifalar bo'yicha jadval ochiladi: qaysi partnyorda nechta) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 211.39 Td
+(     KYC_FAIL, INSUFFICIENT_FUNDS, TIMEOUT va h.k.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 198.64 Td
+(  3. Toifa nomi yoki yacheykaga bosadi - shu kesimdagi xato) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 185.89 Td
+(     yozuvlar ro'yxati ochiladi.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 173.14 Td
+(  4. Bitta yozuvga bosadi - to'liq tafsilot, partnyor xato matni.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 160.39 Td
+(  5. Mijozga javob beradi yoki tegishli bo'limga yo'naltiradi.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 147.64 Td
+(Natija: xato sababi 1 ekranda, partnyor portaliga kirish shart emas.) Tj
+ET
+BT
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 119.39 Td
+(UC-3. Bitta o'tkazmani topish) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 97.89 Td
+(Aktor: operator) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 85.14 Td
+(Boshlanish: mijoz qo'ng'iroq qildi va o'tkazma raqamini aytdi.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 72.39 Td
+(Qadamlar:) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 59.64 Td
+(  1. Yuqoridagi qidiruv qatoriga PaymentRef yoki MTCN kiritadi.) Tj
 ET
 endstream
 endobj
@@ -759,283 +723,307 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
 endobj
 14 0 obj
-<< /Length 5387 >>
+<< /Length 6430 >>
 stream
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 773.39 Td
-(     - summa/sana farq qiladi \(mismatch\)) Tj
+(  2. Tegishli yozuv chiqadi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 760.64 Td
-(  5. Har bir nomoslash uchun izoh yozadi yoki 'tekshiruvga' belgilaydi.) Tj
+(  3. Tafsilot modalini ochib barcha maydonlarni ko'radi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 747.89 Td
-(  6. Sverka aktini PDF qilib chiqaradi va imzolaydi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 735.14 Td
-(Natija: kunlik sverka 1-2 soat o'rniga 10-15 daqiqada bajariladi.) Tj
-ET
-BT
-/F2 12.00 Tf
-0.140 0.180 0.420 rg
-55.00 706.89 Td
-(UC-2. Xato o'tkazma sababini topish) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 685.39 Td
-(Aktor: compliance / sverka_officer) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 672.64 Td
-(Boshlanish: mijoz qo'ng'iroq qildi yoki dashboardda xato ko'rindi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 659.89 Td
-(Qadamlar:) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 647.14 Td
-(  1. Asosiy ekranda 'Xatolar' filtrini yoqadi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 634.39 Td
-(  2. PaymentRef yoki MTCN bo'yicha qidiradi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 621.64 Td
-(  3. Modal ochadi - xato kodi, sababi, partnyor javobi ko'rinadi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 608.89 Td
-(  4. Agar AML_HOLD bo'lsa, compliance bo'limiga yuboradi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 596.14 Td
-(  5. Agar texnik bo'lsa, qayta yuborish \(retry\) tugmasi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 583.39 Td
-(Natija: xatoning sababi 1 ekranda, partnyor portaliga kirish shart emas.) Tj
-ET
-BT
-/F2 12.00 Tf
-0.140 0.180 0.420 rg
-55.00 555.14 Td
-(UC-3. NBU hisoboti tayyorlash) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 533.64 Td
-(Aktor: auditor) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 520.89 Td
-(Boshlanish: oy oxirida, NBU forma 402 talab qilinadi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 508.14 Td
-(Qadamlar:) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 495.39 Td
-(  1. 'Hisobotlar' bo'limiga kiradi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 482.64 Td
-(  2. 'NBU 402' shablonini tanlaydi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 469.89 Td
-(  3. Sana oralig'ini, valyutani belgilaydi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 457.14 Td
-(  4. Tizim jamlagan ma'lumotni Excel formatida chiqaradi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 444.39 Td
-(Natija: hisobot 2-3 kun o'rniga 5 daqiqada tayyor.) Tj
+(Natija: 4 ta portalda qidirish o'rniga 1 sekundda topiladi.) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 412.14 Td
+55.00 715.64 Td
 (5. Funksional talablar) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 400.64 m 545.28 400.64 l S
+55.00 704.14 m 545.28 704.14 l S
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 683.64 Td
+(+----+-----------------------------------------------+--------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 670.89 Td
+(| #  | Funksiya                                      | Asosiy aktor |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 658.14 Td
+(+----+-----------------------------------------------+--------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 645.39 Td
+(| F1 | Yagona tranzaksiyalar ro'yxati \(jadval\)       | operator     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 632.64 Td
+(| F2 | Filtr: partnyor, status, sana, valyuta        | operator     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 619.89 Td
+(| F3 | Qidiruv: PaymentRef / MTCN / telefon / F.I.Sh | operator     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 607.14 Td
+(| F4 | Tafsilot modali \(bitta o'tkazma\)              | operator     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 594.39 Td
+(| F5 | Xatolar paneli \(toifa x partnyor jadvali\)     | operator     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 581.64 Td
+(| F6 | Xato yozuvlar ro'yxati \(filtrlangan\)          | operator     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 568.89 Td
+(| F7 | Excel eksport \(kunlik / oraliq\)               | operator     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 556.14 Td
+(| F8 | Foydalanuvchi va partnyor boshqaruvi          | admin        |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 543.39 Td
+(+----+-----------------------------------------------+--------------+) Tj
+ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 381.64 Td
-(Quyidagi har bir funksiya qaysi muammoni yechishi izohi bilan berilgan) Tj
+55.00 526.14 Td
+(Eslatma: birinchi versiyada sverka motori, NBU 402 hisoboti, AML tahlili va) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 366.64 Td
-(\(M1=sverka, M2=xato tahlili, M3=audit/NBU\).) Tj
+55.00 511.14 Td
+(to'liq audit jurnali kiritilmagan. Bular keyingi versiyalarda, kerak bo'lsa,) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 346.14 Td
-(+----+---------------------------------------+--------+------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 333.39 Td
-(| #  | Funksiya                              | Yechim | Asosiy aktor     |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 320.64 Td
-(+----+---------------------------------------+--------+------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 307.89 Td
-(| F1 | Yagona o'tkazmalar ro'yxati \(jadval\)  | M1, M2 | sverka_officer   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 295.14 Td
-(| F2 | Filtr: partnyor, status, sana, valuta | M1, M2 | sverka_officer   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 282.39 Td
-(| F3 | Qidiruv: PaymentRef / MTCN / passport | M2     | compliance       |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 269.64 Td
-(| F4 | Modal: o'tkazma to'liq tafsiloti      | M2     | sverka_officer   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 256.89 Td
-(| F5 | Partnyor fayl yuklash \(CSV/Excel\)     | M1     | sverka_officer   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 244.14 Td
-(| F6 | Avtomatik moslash + farqlar ro'yxati  | M1     | sverka_officer   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 231.39 Td
-(| F7 | Sverka aktini PDF qilib chiqarish     | M1, M3 | sverka_officer   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 218.64 Td
-(| F8 | Xato statistikasi \(sabab/partnyor\)    | M2     | compliance       |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 205.89 Td
-(| F9 | Audit jurnali \(ko'rish, eksport\)      | M3     | auditor          |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 193.14 Td
-(| F10| NBU forma 402 hisoboti \(Excel\)        | M3     | auditor          |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 180.39 Td
-(| F11| Foydalanuvchi va partnyor boshqaruvi  | -      | admin            |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 167.64 Td
-(+----+---------------------------------------+--------+------------------+) Tj
+55.00 496.14 Td
+(qo'shiladi.) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 135.39 Td
-(6. Xalqaro o'tkazmaning ma'lumot maydonlari) Tj
+55.00 462.14 Td
+(6. O'tkazmaning ma'lumot maydonlari) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 123.89 m 545.28 123.89 l S
+55.00 450.64 m 545.28 450.64 l S
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 104.89 Td
-(Xalqaro pul o'tkazmasi mahalliy o'tkazmadan farq qiladi: korridor, valyuta jufti,) Tj
+55.00 431.64 Td
+(O'tkazma yozuvi quyidagi maydonlardan iborat. Maxfiy maydonlar \(passport,) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 89.89 Td
-(MTCN/Reference, o'tkazma yo'nalishi \(kiruvchi yoki chiquvchi\), tomon banki/agenti) Tj
+55.00 416.64 Td
+(telefon\) ma'lumotlar bazasida shifrlanadi va UI'da maskalangan ko'rinishda) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 74.89 Td
-(kabi maydonlar bor.) Tj
+55.00 401.64 Td
+(chiqariladi.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 381.14 Td
+(+--------------------------+----------------------------------------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 368.39 Td
+(| Maydon                   | Tavsif                                       |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 355.64 Td
+(+--------------------------+----------------------------------------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 342.89 Td
+(| payment_ref              | Bizning ichki ID \(UUID\)                      |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 330.14 Td
+(| partner_id / partner_code| Partnyor \(1, 2, 3, 4\)                        |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 317.39 Td
+(| partner_txn_id           | Partnyordagi original ID                     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 304.64 Td
+(| mtcn                     | Money Transfer Control Number \(mavjud bo'lsa\)|) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 291.89 Td
+(| direction                | INCOMING / OUTGOING                          |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 279.14 Td
+(| status                   | created, sent, pending, paid, cancelled,     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 266.39 Td
+(|                          | failed                                       |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 253.64 Td
+(| send_currency / amount   | Jo'natilgan valyuta va summa                 |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 240.89 Td
+(| recv_currency / amount   | Qabul qilingan valyuta va summa              |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 228.14 Td
+(| amount_uzs               | UZSga ekvivalenti                            |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 215.39 Td
+(| sender_full_name         | Jo'natuvchining F.I.Sh                       |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 202.64 Td
+(| sender_phone             | Jo'natuvchi telefoni \(shifrlanadi\)           |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 189.89 Td
+(| sender_country           | Jo'natuvchi davlati \(ISO kod\)                |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 177.14 Td
+(| receiver_full_name       | Qabul qiluvchi F.I.Sh                        |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 164.39 Td
+(| receiver_phone           | Qabul qiluvchi telefoni \(shifrlanadi\)        |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 151.64 Td
+(| receiver_country         | Qabul qiluvchi davlati                       |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 138.89 Td
+(| error_category           | Ichki toifa - 7-bo'limda batafsil            |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 126.14 Td
+(| error_code               | Partnyor xato kodi \(asl\)                     |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 113.39 Td
+(| error_message            | Partnyor xato matni                          |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 100.64 Td
+(| sent_at                  | O'tkazma jo'natilgan vaqt                    |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 87.89 Td
+(| paid_at                  | Qabul qilingan vaqt                          |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 75.14 Td
+(| created_at               | Bizning bazaga kirib kelgan vaqt             |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 62.39 Td
+(+--------------------------+----------------------------------------------+) Tj
 ET
 endstream
 endobj
@@ -1043,328 +1031,289 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
 endobj
 16 0 obj
-<< /Length 6300 >>
+<< /Length 5533 >>
 stream
 BT
-/F1 8.50 Tf
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 766.89 Td
+(7. Xato toifalari va xatolar paneli) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 755.39 m 545.28 755.39 l S
+BT
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 773.39 Td
-(+--------------------------+----------------------------------------------+) Tj
+55.00 736.39 Td
+(Har bir partnyorning o'z xato kodi va xato matni bor. Tizim ularni yagona ichki) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 721.39 Td
+(toifaga moslab oladi - operator faqat toifa bo'yicha ishlaydi.) Tj
+ET
+BT
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 691.39 Td
+(7.1. Xato toifalari ro'yxati) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 760.64 Td
-(| Maydon                   | Tavsif                                       |) Tj
+55.00 669.89 Td
+(+----------------------+-------------------------------------------------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 747.89 Td
-(+--------------------------+----------------------------------------------+) Tj
+55.00 657.14 Td
+(| Ichki toifa          | Tavsif va misol                                 |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 735.14 Td
-(| payment_ref              | Bizning ichki ID \(UUID\)                      |) Tj
+55.00 644.39 Td
+(+----------------------+-------------------------------------------------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 722.39 Td
-(| partner_code             | WU, MGR, KP, UNI, CON, RIA, ZK, ASE          |) Tj
+55.00 631.64 Td
+(| KYC_FAIL             | Mijoz hujjati notog'ri / muddati o'tgan         |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 709.64 Td
-(| partner_txn_id           | Partnyordagi original ID                     |) Tj
+55.00 618.89 Td
+(| INSUFFICIENT_FUNDS   | Mablag' yetmadi                                 |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 696.89 Td
-(| mtcn                     | Money Transfer Control Number \(WU/MGR\)       |) Tj
+55.00 606.14 Td
+(| BENEFICIARY_NOT_FOUND| Qabul qiluvchi topilmadi yoki MTCN yaroqsiz     |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 684.14 Td
-(| direction                | INCOMING / OUTGOING                          |) Tj
+55.00 593.39 Td
+(| LIMIT_EXCEEDED       | Kunlik yoki oylik limit oshib ketdi             |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 671.39 Td
-(| status                   | created, sent, pending, paid, cancelled,     |) Tj
+55.00 580.64 Td
+(| TIMEOUT              | Texnik xato, partnyor javobi yo'q yoki kech     |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 658.64 Td
-(|                          | failed, refunded                             |) Tj
+55.00 567.89 Td
+(| CANCELLED_BY_SENDER  | Jo'natuvchi bekor qildi                         |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 645.89 Td
-(| corridor_from / _to      | Davlat ISO kodlari \(UZ, RU, US, TR, ...\)     |) Tj
+55.00 555.14 Td
+(| OTHER                | Boshqa \(asl matn saqlanadi\)                     |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 633.14 Td
-(| send_currency / amount   | Jo'natilgan valyuta va summa                 |) Tj
+55.00 542.39 Td
+(+----------------------+-------------------------------------------------+) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 620.39 Td
-(| recv_currency / amount   | Qabul valyutasi va summa                     |) Tj
+55.00 525.14 Td
+(Yangi toifalar zarurat tug'ilsa qo'shiladi. Toifaga tushmagan barcha xatolar) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 607.64 Td
-(| amount_uzs               | UZSga o'girilgan ekvivalent                  |) Tj
+55.00 510.14 Td
+(OTHER ga yoziladi - keyinchalik tahlil qilinib, yangi toifa qo'shilishi mumkin.) Tj
 ET
 BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 594.89 Td
-(| fx_rate                  | Qo'llanilgan kurs                            |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 582.14 Td
-(| usd_rate                 | NBU/CBU dollar kursi                         |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 569.39 Td
-(| commission               | Komissiya \(jo'natuvchi tomonidan\)            |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 556.64 Td
-(| sender_*                 | F.I.Sh, passport seriya/raqam, telefon,      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 543.89 Td
-(|                          | tug'ilgan sana, fuqarolik, manzil            |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 531.14 Td
-(| receiver_*               | F.I.Sh, passport, telefon, fuqarolik         |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 518.39 Td
-(| sender_country           | Jo'natuvchi davlati                          |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 505.64 Td
-(| receiver_country         | Qabul qiluvchi davlati                       |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 492.89 Td
-(| purpose_code             | O'tkazma maqsadi \(oilaviy, savdo, ...\)       |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
 55.00 480.14 Td
-(| sanctions_check          | clean / flagged / blocked                    |) Tj
+(7.2. Xatolar paneli ko'rinishi \(F5\)) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 460.14 Td
+(Yuqorida - sana oraligi va partnyor filtri. O'rtada - toifa x partnyor jadvali.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 445.14 Td
+(Yacheykaga bosilsa - shu kesimdagi xato yozuvlar ro'yxati pastda ochiladi.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 467.39 Td
-(| aml_score                | 0-100                                        |) Tj
+55.00 424.64 Td
+(+--------------+------+------+------+------+--------+--------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 454.64 Td
-(| error_code / message     | Xato kodi va matni \(me'yorlashgan\)           |) Tj
+55.00 411.89 Td
+(| Toifa        | P1   | P2   | P3   | P4   | Jami   | %      |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 441.89 Td
-(| sent_at / paid_at        | Sanalar                                      |) Tj
+55.00 399.14 Td
+(+--------------+------+------+------+------+--------+--------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 429.14 Td
-(| recon_status             | not_checked, matched, mismatch, missing      |) Tj
+55.00 386.39 Td
+(| KYC_FAIL     |  12  |   4  |   8  |   1  |   25   |  31 %  |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 416.39 Td
-(| recon_batch_id           | Sverka partiyasi ID                          |) Tj
+55.00 373.64 Td
+(| INSUF_FUNDS  |   3  |   6  |   2  |   0  |   11   |  14 %  |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 403.64 Td
-(+--------------------------+----------------------------------------------+) Tj
+55.00 360.89 Td
+(| BENEFICIARY  |   2  |   1  |   5  |   0  |    8   |  10 %  |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 348.14 Td
+(| LIMIT_EXCD   |   1  |   0  |   2  |   0  |    3   |   4 %  |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 335.39 Td
+(| TIMEOUT      |   7  |  11  |   4  |   2  |   24   |  30 %  |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 322.64 Td
+(| CANCELLED    |   2  |   1  |   1  |   0  |    4   |   5 %  |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 309.89 Td
+(| OTHER        |   1  |   2  |   2  |   1  |    6   |   8 %  |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 297.14 Td
+(+--------------+------+------+------+------+--------+--------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 284.39 Td
+(  Sana oraligi: 01.06.2026 - 14.06.2026) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 271.64 Td
+(  Jami xatolar: 81 ta) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 258.89 Td
+(  Toifa nomiga bosilsa - shu toifadagi barcha xato yozuvlar.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 246.14 Td
+(  Yacheykaga bosilsa - shu partnyor x toifa kesimidagi yozuvlar.) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 371.39 Td
-(7. Sverka \(reconciliation\) oqimi) Tj
+55.00 213.89 Td
+(8. Tizim arxitekturasi) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 359.89 m 545.28 359.89 l S
+55.00 202.39 m 545.28 202.39 l S
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 339.39 Td
-(  [1. Partnyor fayli \(CSV/Excel\)]) Tj
+55.00 181.89 Td
+(  Partnyor manbalari \(3-4 ta\)) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 326.64 Td
+55.00 169.14 Td
+(  ============================) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 156.39 Td
+(  - API/Webhook \(qaerda mavjud bo'lsa\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 143.64 Td
+(  - Yarim avtomatik: SFTP / pochta orqali kunlik fayl) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 130.89 Td
+(  - Qo'lda: operator UI orqali yuklash) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 118.14 Td
 (            |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 313.89 Td
+55.00 105.39 Td
 (            v) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 301.14 Td
-(  [2. Parser - partnyor formatiga maxsus]) Tj
+55.00 92.64 Td
+(  +-------------------------------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 288.39 Td
-(     - WU adapteri          - Unistream adapteri) Tj
+55.00 79.89 Td
+(  | Import qatlami                |  \(.NET 10 background services\)) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 275.64 Td
-(     - MoneyGram adapteri   - Contact adapteri) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 262.89 Td
-(     - KoronaPay adapteri   - Ria, Z. Korona, Asia Express) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 250.14 Td
-(            |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 237.39 Td
-(            v) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 224.64 Td
-(  [3. Matching engine]) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 211.89 Td
-(     kalit: partner_txn_id YOKI mtcn) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 199.14 Td
-(     to'lqinlar:) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 186.39 Td
-(       a\) bir xil ID + summa + sana   -> matched) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 173.64 Td
-(       b\) bir xil ID, summa farqi     -> amount_mismatch) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 160.89 Td
-(       c\) faqat partnyorda             -> missing_in_bank) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 148.14 Td
-(       d\) faqat bankda                 -> missing_in_partner) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 135.39 Td
-(            |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 122.64 Td
-(            v) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 109.89 Td
-(  [4. Sverka partiyasi \(recon_batch\)]) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 97.14 Td
-(     - sana: 11.06.2026) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 84.39 Td
-(     - partnyor: KoronaPay) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 71.64 Td
-(     - jami: 412 ta yozuv) Tj
+55.00 67.14 Td
+(  | - Partnyor 1 adapter          |) Tj
 ET
 endstream
 endobj
@@ -1372,277 +1321,400 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
 endobj
 18 0 obj
-<< /Length 5159 >>
+<< /Length 6474 >>
 stream
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 773.39 Td
-(     - matched: 405, mismatch: 3, missing_in_bank: 2,) Tj
+(  | - Partnyor 2 adapter          |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 760.64 Td
-(       missing_in_partner: 2) Tj
+(  | - Partnyor 3 adapter          |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 747.89 Td
-(            |) Tj
+(  | - Partnyor 4 adapter          |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 735.14 Td
-(            v) Tj
+(  | -> yagona ichki Payment model |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 722.39 Td
-(  [5. Xodim har bir farqga izoh yozadi yoki tekshiruvga yuboradi]) Tj
+(  +-------------+-----------------+) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 709.64 Td
-(            |) Tj
+(                |) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 696.89 Td
-(            v) Tj
+(                v) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
 55.00 684.14 Td
-(  [6. Sverka akti \(PDF\) - imzo va arxiv]) Tj
+(  +-------------------------------+         +-------------------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 671.39 Td
+(  | Domain qatlami                | <-----> | PostgreSQL              |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 658.64 Td
+(  | - ErrorNormalizer             |         |  partners, payments,    |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 645.89 Td
+(  | - StatsService                |         |  users, roles           |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 633.14 Td
+(  | - ExportService \(Excel\)       |         +-------------------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 620.39 Td
+(  +-------------+-----------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 607.64 Td
+(                |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 594.89 Td
+(                v) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 582.14 Td
+(  +-------------------------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 569.39 Td
+(  | API qatlami \(.NET 10 Web API\) |  JWT autentifikatsiya, RBAC) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 556.64 Td
+(  +-------------+-----------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 543.89 Td
+(                |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 531.14 Td
+(                v) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 518.39 Td
+(  +-------------------------------+) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 505.64 Td
+(  | Vue 3 SPA \(operator\)          |  Tranzaksiyalar, xatolar paneli) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 492.89 Td
+(  +-------------------------------+) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 651.89 Td
-(8. Xato o'tkazmalar bilan ishlash) Tj
+55.00 460.64 Td
+(9. Ma'lumotlar bazasi \(PostgreSQL\)) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 640.39 m 545.28 640.39 l S
+55.00 449.14 m 545.28 449.14 l S
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 621.39 Td
-(Har bir partnyorning o'z xato kodi bo'ladi. Tizim ularni ichki, me'yorlashgan) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 606.39 Td
-(toifalarga moslab oladi - xodim faqat toifa bo'yicha ishlasa bo'ladi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 585.89 Td
-(+----------------------+-------------------------------------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 573.14 Td
-(| Ichki toifa          | Tavsif va misol                                 |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 560.39 Td
-(+----------------------+-------------------------------------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 547.64 Td
-(| KYC_FAIL             | Mijoz hujjati notog'ri / muddati o'tgan         |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 534.89 Td
-(| AML_HOLD             | AML/sanksiya ro'yxati - compliance ko'radi      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 522.14 Td
-(| BENEFICIARY_NOT_FOUND| Qabul qiluvchi topilmadi yoki MTCN yaroqsiz     |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 509.39 Td
-(| LIMIT_EXCEEDED       | Kunlik/oylik limit oshib ketdi                  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 496.64 Td
-(| INSUFFICIENT_FUNDS   | Mablag' yetmadi \(chiquvchida\)                   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 483.89 Td
-(| TECH_TIMEOUT         | Texnik xato, partnyor javobi yo'q               |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 471.14 Td
-(| CANCELLED_BY_SENDER  | Jo'natuvchi bekor qildi                         |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 458.39 Td
-(| FX_RATE_MISMATCH     | Kurs farqi limitdan oshdi                       |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 445.64 Td
-(| OTHER                | Boshqa \(matn ichida saqlanadi\)                  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 432.89 Td
-(+----------------------+-------------------------------------------------+) Tj
-ET
-BT
-/F2 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 410.14 Td
-(Statistika ko'rinishi) Tj
+55.00 430.14 Td
+(Tizim 4 ta jadvaldan iborat. Maxfiy maydonlar \(passport, telefon\) AES-256 bilan) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 392.89 Td
-(- Partnyor x toifa kesimida xato soni \(oxirgi 30 kun\).) Tj
+55.00 415.14 Td
+(shifrlanadi.) Tj
 ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 377.89 Td
-(- Trend grafigi - kun bo'yicha xato foizi.) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 362.89 Td
-(- Top 10 takrorlanuvchi xato matni \(asl, partnyor matni\).) Tj
-ET
-BT
-/F2 15.00 Tf
-0.100 0.200 0.500 rg
-55.00 332.89 Td
-(9. Audit jurnali va NBU hisoboti) Tj
-ET
-0.55 0.6 0.75 RG
-0.6 w
-55.00 321.39 m 545.28 321.39 l S
-BT
-/F2 12.00 Tf
-0.140 0.180 0.420 rg
-55.00 291.39 Td
-(9.1. Audit jurnali \(audit_log jadvali\)) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 271.39 Td
-(Tizimdagi har qanday muhim harakat yoziladi. Hech qanday yozuv o'chirilmaydi yoki) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 256.39 Td
-(o'zgartirilmaydi - faqat yangi yozuv qo'shiladi.) Tj
-ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 392.64 m 49.00 403.14 l S
 BT
 /F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 235.89 Td
-(audit_log:) Tj
+0.100 0.100 0.100 rg
+55.00 394.64 Td
+(CREATE TABLE roles \() Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 379.89 m 49.00 390.39 l S
 BT
 /F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 223.14 Td
-(  - id, timestamp, user_id, user_login) Tj
+0.100 0.100 0.100 rg
+55.00 381.89 Td
+(    id SERIAL PRIMARY KEY,) Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 367.14 m 49.00 377.64 l S
 BT
 /F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 210.39 Td
-(  - action: LOGIN, VIEW_PAYMENT, EXPORT_REPORT, RUN_RECON,) Tj
+0.100 0.100 0.100 rg
+55.00 369.14 Td
+(    name VARCHAR\(40\) UNIQUE NOT NULL) Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 354.39 m 49.00 364.89 l S
 BT
 /F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 197.64 Td
-(            RESOLVE_DIFF, RETRY_PAYMENT, CHANGE_USER, ...) Tj
+0.100 0.100 0.100 rg
+55.00 356.39 Td
+(      -- 'operator', 'admin') Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 341.64 m 49.00 352.14 l S
 BT
 /F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 184.89 Td
-(  - entity_type, entity_id  \(qaysi obyekt ustida\)) Tj
+0.100 0.100 0.100 rg
+55.00 343.64 Td
+(\);) Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 328.89 m 49.00 339.39 l S
 BT
 /F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 172.14 Td
-(  - details_json            \(eski va yangi qiymat\)) Tj
+0.100 0.100 0.100 rg
+55.00 330.89 Td
+() Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 316.14 m 49.00 326.64 l S
 BT
 /F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 159.39 Td
-(  - ip_address) Tj
+0.100 0.100 0.100 rg
+55.00 318.14 Td
+(CREATE TABLE users \() Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 303.39 m 49.00 313.89 l S
 BT
-/F2 12.00 Tf
-0.140 0.180 0.420 rg
-55.00 131.14 Td
-(9.2. NBU hisobotlari \(chiqariladigan formatlar\)) Tj
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 305.39 Td
+(    id SERIAL PRIMARY KEY,) Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 290.64 m 49.00 301.14 l S
 BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 111.14 Td
-(- Forma 402 - xalqaro o'tkazmalar bo'yicha kunlik hisobot \(Excel\).) Tj
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 292.64 Td
+(    login VARCHAR\(100\) UNIQUE NOT NULL,) Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 277.89 m 49.00 288.39 l S
 BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 96.14 Td
-(- AML hisoboti - flagged va blocked o'tkazmalar \(PDF + Excel\).) Tj
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 279.89 Td
+(    password_hash VARCHAR\(255\) NOT NULL,) Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 265.14 m 49.00 275.64 l S
 BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 81.14 Td
-(- Korridor kesimida statistik hisobot \(kelgan/ketgan, davlat\).) Tj
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 267.14 Td
+(    full_name VARCHAR\(150\),) Tj
 ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 252.39 m 49.00 262.89 l S
 BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 66.14 Td
-(- Saqlash muddati: 7 yil \(NBU talabi\); arxivga ko'chiriladi.) Tj
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 254.39 Td
+(    role_id INT NOT NULL REFERENCES roles\(id\),) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 239.64 m 49.00 250.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 241.64 Td
+(    is_active BOOLEAN DEFAULT true,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 226.89 m 49.00 237.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 228.89 Td
+(    created_at TIMESTAMP DEFAULT now\(\)) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 214.14 m 49.00 224.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 216.14 Td
+(\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 201.39 m 49.00 211.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 203.39 Td
+() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 188.64 m 49.00 199.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 190.64 Td
+(CREATE TABLE partners \() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 175.89 m 49.00 186.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 177.89 Td
+(    id SERIAL PRIMARY KEY,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 163.14 m 49.00 173.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 165.14 Td
+(    code VARCHAR\(20\) UNIQUE NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 150.39 m 49.00 160.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 152.39 Td
+(    name VARCHAR\(100\) NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 137.64 m 49.00 148.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 139.64 Td
+(    is_active BOOLEAN DEFAULT true) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 124.89 m 49.00 135.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 126.89 Td
+(\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 106.14 m 49.00 116.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 108.14 Td
+(CREATE TABLE payments \() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 93.39 m 49.00 103.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 95.39 Td
+(    id BIGSERIAL PRIMARY KEY,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 80.64 m 49.00 91.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 82.64 Td
+(    payment_ref      VARCHAR\(64\) UNIQUE NOT NULL,) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 67.89 m 49.00 78.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 69.89 Td
+(    partner_id       INT NOT NULL REFERENCES partners\(id\),) Tj
 ET
 endstream
 endobj
@@ -1650,369 +1722,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R >>
 endobj
 20 0 obj
-<< /Length 5898 >>
-stream
-BT
-/F2 15.00 Tf
-0.100 0.200 0.500 rg
-55.00 766.89 Td
-(10. Tizim arxitekturasi) Tj
-ET
-0.55 0.6 0.75 RG
-0.6 w
-55.00 755.39 m 545.28 755.39 l S
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 734.89 Td
-(  Partnyor ma'lumot manbalari) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 722.14 Td
-(  ============================) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 709.39 Td
-(  - Avtomatik: API/Webhook \(qaerda mavjud bo'lsa\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 696.64 Td
-(  - Yarim avtomatik: SFTP/elektron pochta orqali kunlik fayl) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 683.89 Td
-(  - Qo'lda: xodim tomonidan UI orqali yuklash) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 671.14 Td
-(            |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 658.39 Td
-(            v) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 645.64 Td
-(  +-------------------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 632.89 Td
-(  | Integration / Import qatlami  |  \(.NET 10 background services\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 620.14 Td
-(  | - WU adapter                  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 607.39 Td
-(  | - MoneyGram adapter           |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 594.64 Td
-(  | - KoronaPay adapter           |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 581.89 Td
-(  | - Unistream / Contact / Ria / |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 569.14 Td
-(  |   Z. Korona / Asia Express    |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 556.39 Td
-(  +-------------+-----------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 543.64 Td
-(                |  yagona ichki model \(Payment\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 530.89 Td
-(                v) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 518.14 Td
-(  +-------------------------------+         +-------------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 505.39 Td
-(  | Domain qatlami                | <-----> | PostgreSQL \(asosiy DB\)  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 492.64 Td
-(  | - Reconciliation engine       |         |  payments, partners,    |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 479.89 Td
-(  | - Error normalizer            |         |  recon_batches,         |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 467.14 Td
-(  | - Audit logger                |         |  recon_diffs, audit_log |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 454.39 Td
-(  | - Report generator \(NBU\)      |         +-------------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 441.64 Td
-(  +-------------+-----------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 428.89 Td
-(                |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 416.14 Td
-(                v) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 403.39 Td
-(  +-------------------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 390.64 Td
-(  | API qatlami \(.NET 10 Web API\) |  JWT, RBAC) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 377.89 Td
-(  +-------------+-----------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 365.14 Td
-(                |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 352.39 Td
-(                v) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 339.64 Td
-(  +-------------------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 326.89 Td
-(  | Vue 3 SPA \(bek-ofis xodimi\)   |  jadval, modal, sverka, hisobot) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 314.14 Td
-(  +-------------------------------+) Tj
-ET
-BT
-/F2 15.00 Tf
-0.100 0.200 0.500 rg
-55.00 281.89 Td
-(11. Ma'lumotlar bazasi \(SQL\)) Tj
-ET
-0.55 0.6 0.75 RG
-0.6 w
-55.00 270.39 m 545.28 270.39 l S
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 251.39 Td
-(Asosiy jadvallar \(PostgreSQL\). Maxfiy maydonlar shifrlanadi \(PII\).) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 228.89 m 49.00 239.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 230.89 Td
-(CREATE TABLE roles \() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 216.14 m 49.00 226.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 218.14 Td
-(    id SERIAL PRIMARY KEY,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 203.39 m 49.00 213.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 205.39 Td
-(    name VARCHAR\(40\) UNIQUE NOT NULL) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 190.64 m 49.00 201.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 192.64 Td
-(      -- 'sverka_officer','compliance','auditor','admin') Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 177.89 m 49.00 188.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 179.89 Td
-(\);) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 165.14 m 49.00 175.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 167.14 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 152.39 m 49.00 162.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 154.39 Td
-(CREATE TABLE partners \() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 139.64 m 49.00 150.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 141.64 Td
-(    id SERIAL PRIMARY KEY,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 126.89 m 49.00 137.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 128.89 Td
-(    code VARCHAR\(10\) UNIQUE NOT NULL,   -- WU, MGR, KP, UNI, CON, RIA, ZK, ASE) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 114.14 m 49.00 124.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 116.14 Td
-(    name VARCHAR\(100\) NOT NULL,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 101.39 m 49.00 111.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 103.39 Td
-(    is_active BOOLEAN DEFAULT true) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 88.64 m 49.00 99.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 90.64 Td
-(\);) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 75.89 m 49.00 86.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 77.89 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 63.14 m 49.00 73.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 65.14 Td
-(CREATE TABLE users \() Tj
-ET
-endstream
-endobj
-21 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
-endobj
-22 0 obj
-<< /Length 8644 >>
+<< /Length 6917 >>
 stream
 0.85 0.88 0.95 RG
 1.5 w
@@ -2021,7 +1731,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 773.39 Td
-(    id SERIAL PRIMARY KEY,) Tj
+(    partner_txn_id   VARCHAR\(100\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2030,7 +1740,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 760.64 Td
-(    login VARCHAR\(100\) UNIQUE NOT NULL,) Tj
+(    mtcn             VARCHAR\(40\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2039,7 +1749,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 747.89 Td
-(    password_hash VARCHAR\(255\) NOT NULL,) Tj
+(    direction        VARCHAR\(10\) NOT NULL,   -- INCOMING/OUTGOING) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2048,7 +1758,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 735.14 Td
-(    full_name VARCHAR\(150\),) Tj
+(    status           VARCHAR\(20\) NOT NULL,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2057,7 +1767,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 722.39 Td
-(    role_id INT NOT NULL REFERENCES roles\(id\),) Tj
+(    -- summa va valyuta) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2066,7 +1776,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 709.64 Td
-(    is_active BOOLEAN DEFAULT true,) Tj
+(    send_currency    CHAR\(3\),  send_amount    NUMERIC\(18,2\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2075,7 +1785,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 696.89 Td
-(    created_at TIMESTAMP DEFAULT now\(\)) Tj
+(    recv_currency    CHAR\(3\),  recv_amount    NUMERIC\(18,2\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2084,447 +1794,354 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 684.14 Td
-(\);) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 663.39 m 49.00 673.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 665.39 Td
-(CREATE TABLE payments \() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 650.64 m 49.00 661.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 652.64 Td
-(    id BIGSERIAL PRIMARY KEY,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 637.89 m 49.00 648.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 639.89 Td
-(    payment_ref      VARCHAR\(64\) UNIQUE NOT NULL, -- ichki UUID) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 625.14 m 49.00 635.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 627.14 Td
-(    partner_id       INT NOT NULL REFERENCES partners\(id\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 612.39 m 49.00 622.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 614.39 Td
-(    partner_txn_id   VARCHAR\(100\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 599.64 m 49.00 610.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 601.64 Td
-(    mtcn             VARCHAR\(40\),                 -- WU/MGR) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 586.89 m 49.00 597.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 588.89 Td
-(    direction        VARCHAR\(10\) NOT NULL,        -- INCOMING/OUTGOING) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 574.14 m 49.00 584.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 576.14 Td
-(    status           VARCHAR\(20\) NOT NULL,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 561.39 m 49.00 571.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 563.39 Td
-(    -- korridor / valyuta) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 548.64 m 49.00 559.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 550.64 Td
-(    corridor_from    CHAR\(2\),                     -- ISO: UZ, RU) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 535.89 m 49.00 546.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 537.89 Td
-(    corridor_to      CHAR\(2\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 523.14 m 49.00 533.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 525.14 Td
-(    send_currency    CHAR\(3\),  send_amount    NUMERIC\(18,2\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 510.39 m 49.00 520.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 512.39 Td
-(    recv_currency    CHAR\(3\),  recv_amount    NUMERIC\(18,2\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 497.64 m 49.00 508.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 499.64 Td
 (    amount_uzs       NUMERIC\(18,2\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 484.89 m 49.00 495.39 l S
+49.00 669.39 m 49.00 679.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 486.89 Td
-(    fx_rate          NUMERIC\(14,6\),) Tj
+55.00 671.39 Td
+(    -- jo'natuvchi va qabul qiluvchi) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 472.14 m 49.00 482.64 l S
+49.00 656.64 m 49.00 667.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 474.14 Td
-(    usd_rate         NUMERIC\(14,4\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 459.39 m 49.00 469.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 461.39 Td
-(    commission       NUMERIC\(18,2\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 446.64 m 49.00 457.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 448.64 Td
-(    -- jo'natuvchi \(PII shifrlanadi\)) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 433.89 m 49.00 444.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 435.89 Td
+55.00 658.64 Td
 (    sender_full_name VARCHAR\(200\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 421.14 m 49.00 431.64 l S
+49.00 643.89 m 49.00 654.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 423.14 Td
-(    sender_passport  VARCHAR\(40\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 408.39 m 49.00 418.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 410.39 Td
+55.00 645.89 Td
 (    sender_phone     VARCHAR\(20\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 395.64 m 49.00 406.14 l S
+49.00 631.14 m 49.00 641.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 397.64 Td
+55.00 633.14 Td
 (    sender_country   CHAR\(2\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 382.89 m 49.00 393.39 l S
+49.00 618.39 m 49.00 628.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 384.89 Td
-(    -- qabul qiluvchi) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 370.14 m 49.00 380.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 372.14 Td
+55.00 620.39 Td
 (    receiver_full_name VARCHAR\(200\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 357.39 m 49.00 367.89 l S
+49.00 605.64 m 49.00 616.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 359.39 Td
-(    receiver_passport  VARCHAR\(40\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 344.64 m 49.00 355.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 346.64 Td
+55.00 607.64 Td
 (    receiver_phone     VARCHAR\(20\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 331.89 m 49.00 342.39 l S
+49.00 592.89 m 49.00 603.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 333.89 Td
+55.00 594.89 Td
 (    receiver_country   CHAR\(2\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 319.14 m 49.00 329.64 l S
+49.00 580.14 m 49.00 590.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 321.14 Td
-(    -- compliance) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 306.39 m 49.00 316.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 308.39 Td
-(    purpose_code     VARCHAR\(20\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 293.64 m 49.00 304.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 295.64 Td
-(    sanctions_check  VARCHAR\(20\) DEFAULT 'clean',) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 280.89 m 49.00 291.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 282.89 Td
-(    aml_score        SMALLINT,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 268.14 m 49.00 278.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 270.14 Td
+55.00 582.14 Td
 (    -- xato) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 255.39 m 49.00 265.89 l S
+49.00 567.39 m 49.00 577.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 257.39 Td
-(    error_category   VARCHAR\(40\),  -- KYC_FAIL, AML_HOLD ...) Tj
+55.00 569.39 Td
+(    error_category   VARCHAR\(40\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 242.64 m 49.00 253.14 l S
+49.00 554.64 m 49.00 565.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 244.64 Td
+55.00 556.64 Td
 (    error_code       VARCHAR\(50\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 229.89 m 49.00 240.39 l S
+49.00 541.89 m 49.00 552.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 231.89 Td
+55.00 543.89 Td
 (    error_message    TEXT,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 217.14 m 49.00 227.64 l S
+49.00 529.14 m 49.00 539.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 219.14 Td
-(    -- sverka) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 204.39 m 49.00 214.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 206.39 Td
-(    recon_status     VARCHAR\(20\) DEFAULT 'not_checked',) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 191.64 m 49.00 202.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 193.64 Td
-(    recon_batch_id   BIGINT,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 178.89 m 49.00 189.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 180.89 Td
+55.00 531.14 Td
 (    -- vaqt) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 166.14 m 49.00 176.64 l S
+49.00 516.39 m 49.00 526.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 168.14 Td
+55.00 518.39 Td
 (    sent_at          TIMESTAMP,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 153.39 m 49.00 163.89 l S
+49.00 503.64 m 49.00 514.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 155.39 Td
+55.00 505.64 Td
 (    paid_at          TIMESTAMP,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 140.64 m 49.00 151.14 l S
+49.00 490.89 m 49.00 501.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 142.64 Td
+55.00 492.89 Td
 (    created_at       TIMESTAMP DEFAULT now\(\),) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 127.89 m 49.00 138.39 l S
+49.00 478.14 m 49.00 488.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 129.89 Td
+55.00 480.14 Td
 (    updated_at       TIMESTAMP DEFAULT now\(\)) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 115.14 m 49.00 125.64 l S
+49.00 465.39 m 49.00 475.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 117.14 Td
+55.00 467.39 Td
 (\);) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 102.39 m 49.00 112.89 l S
+49.00 452.64 m 49.00 463.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 104.39 Td
+55.00 454.64 Td
 () Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 89.64 m 49.00 100.14 l S
+49.00 439.89 m 49.00 450.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 91.64 Td
+55.00 441.89 Td
 (CREATE INDEX ix_payments_partner   ON payments\(partner_id\);) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 76.89 m 49.00 87.39 l S
+49.00 427.14 m 49.00 437.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 78.89 Td
-(CREATE INDEX ix_payments_mtcn      ON payments\(mtcn\);) Tj
+55.00 429.14 Td
+(CREATE INDEX ix_payments_status    ON payments\(status\);) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 64.14 m 49.00 74.64 l S
+49.00 414.39 m 49.00 424.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 66.14 Td
-(CREATE INDEX ix_payments_status    ON payments\(status\);) Tj
+55.00 416.39 Td
+(CREATE INDEX ix_payments_sent_at   ON payments\(sent_at\);) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 401.64 m 49.00 412.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 403.64 Td
+(CREATE INDEX ix_payments_error_cat ON payments\(error_category\);) Tj
+ET
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 371.39 Td
+(10. Backend modellar \(.NET 10\)) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 359.89 m 545.28 359.89 l S
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 340.89 Td
+(Loyiha tuzilishi:) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 320.39 Td
+(PartnerPayments.Api/) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 307.64 Td
+( |- Domain/) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 294.89 Td
+( |   |- Entities/   \(Payment, Partner, User, Role\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 282.14 Td
+( |   |- Enums/      \(Direction, PaymentStatus, ErrorCategory\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 269.39 Td
+( |   |- Services/   \(ImportService, ErrorNormalizer,) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 256.64 Td
+( |                   StatsService, ExportService\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 243.89 Td
+( |- Infrastructure/) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 231.14 Td
+( |   |- Persistence/    \(AppDbContext, EF Core configs\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 218.39 Td
+( |   |- Adapters/       \(Partner1Adapter, Partner2Adapter,) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 205.64 Td
+( |                       Partner3Adapter, Partner4Adapter\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 192.89 Td
+( |- Application/) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 180.14 Td
+( |   |- Dtos/, Queries/, Commands/) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 167.39 Td
+( |- Api/) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 154.64 Td
+( |   |- Controllers/    \(PaymentsController, ErrorsController,) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 141.89 Td
+( |                       AuthController, AdminController\)) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 129.14 Td
+( |   |- Program.cs) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 116.39 Td
+( |- appsettings.json) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 93.64 Td
+(Asosiy entity: Payment.cs \(qisqartma\)) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 72.89 m 49.00 83.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 74.89 Td
+(public class Payment) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 60.14 m 49.00 70.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 62.14 Td
+({) Tj
 ET
 endstream
 endobj
-23 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
 endobj
-24 0 obj
-<< /Length 7453 >>
+22 0 obj
+<< /Length 7638 >>
 stream
 0.85 0.88 0.95 RG
 1.5 w
@@ -2533,7 +2150,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 773.39 Td
-(CREATE INDEX ix_payments_sent_at   ON payments\(sent_at\);) Tj
+(    public long Id { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -2542,711 +2159,283 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 760.64 Td
-(CREATE INDEX ix_payments_recon     ON payments\(recon_status, recon_batch_id\);) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 739.89 m 49.00 750.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 741.89 Td
-(-- Sverka partiyalari va farqlari) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 727.14 m 49.00 737.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 729.14 Td
-(CREATE TABLE recon_batches \() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 714.39 m 49.00 724.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 716.39 Td
-(    id BIGSERIAL PRIMARY KEY,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 701.64 m 49.00 712.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 703.64 Td
-(    partner_id INT NOT NULL REFERENCES partners\(id\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 688.89 m 49.00 699.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 690.89 Td
-(    business_date DATE NOT NULL,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 676.14 m 49.00 686.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 678.14 Td
-(    file_name VARCHAR\(255\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 663.39 m 49.00 673.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 665.39 Td
-(    total_partner INT, total_bank INT,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 650.64 m 49.00 661.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 652.64 Td
-(    matched INT, mismatch INT,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 637.89 m 49.00 648.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 639.89 Td
-(    missing_in_bank INT, missing_in_partner INT,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 625.14 m 49.00 635.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 627.14 Td
-(    status VARCHAR\(20\) DEFAULT 'open', -- open/closed/signed) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 612.39 m 49.00 622.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 614.39 Td
-(    created_by INT REFERENCES users\(id\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 599.64 m 49.00 610.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 601.64 Td
-(    created_at TIMESTAMP DEFAULT now\(\)) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 586.89 m 49.00 597.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 588.89 Td
-(\);) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 574.14 m 49.00 584.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 576.14 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 561.39 m 49.00 571.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 563.39 Td
-(CREATE TABLE recon_diffs \() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 548.64 m 49.00 559.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 550.64 Td
-(    id BIGSERIAL PRIMARY KEY,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 535.89 m 49.00 546.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 537.89 Td
-(    batch_id BIGINT NOT NULL REFERENCES recon_batches\(id\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 523.14 m 49.00 533.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 525.14 Td
-(    payment_id BIGINT REFERENCES payments\(id\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 510.39 m 49.00 520.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 512.39 Td
-(    diff_type VARCHAR\(30\) NOT NULL,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 497.64 m 49.00 508.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 499.64 Td
-(        -- amount_mismatch / missing_in_bank / missing_in_partner) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 484.89 m 49.00 495.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 486.89 Td
-(    partner_record_json JSONB,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 472.14 m 49.00 482.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 474.14 Td
-(    bank_record_json    JSONB,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 459.39 m 49.00 469.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 461.39 Td
-(    resolution VARCHAR\(20\),  -- pending/accepted/disputed) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 446.64 m 49.00 457.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 448.64 Td
-(    note TEXT,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 433.89 m 49.00 444.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 435.89 Td
-(    resolved_by INT REFERENCES users\(id\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 421.14 m 49.00 431.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 423.14 Td
-(    resolved_at TIMESTAMP) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 408.39 m 49.00 418.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 410.39 Td
-(\);) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 395.64 m 49.00 406.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 397.64 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 382.89 m 49.00 393.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 384.89 Td
-(CREATE TABLE audit_log \() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 370.14 m 49.00 380.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 372.14 Td
-(    id BIGSERIAL PRIMARY KEY,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 357.39 m 49.00 367.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 359.39 Td
-(    ts TIMESTAMP DEFAULT now\(\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 344.64 m 49.00 355.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 346.64 Td
-(    user_id INT REFERENCES users\(id\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 331.89 m 49.00 342.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 333.89 Td
-(    user_login VARCHAR\(100\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 319.14 m 49.00 329.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 321.14 Td
-(    action VARCHAR\(40\) NOT NULL,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 306.39 m 49.00 316.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 308.39 Td
-(    entity_type VARCHAR\(40\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 293.64 m 49.00 304.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 295.64 Td
-(    entity_id VARCHAR\(64\),) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 280.89 m 49.00 291.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 282.89 Td
-(    details JSONB,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 268.14 m 49.00 278.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 270.14 Td
-(    ip_address VARCHAR\(45\)) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 255.39 m 49.00 265.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 257.39 Td
-(\);) Tj
-ET
-BT
-/F2 15.00 Tf
-0.100 0.200 0.500 rg
-55.00 225.14 Td
-(12. Backend modellar \(.NET 10\)) Tj
-ET
-0.55 0.6 0.75 RG
-0.6 w
-55.00 213.64 m 545.28 213.64 l S
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 194.64 Td
-(Loyiha tuzilishi:) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 174.14 Td
-(InternationalTransfers.Api/) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 161.39 Td
-( |- Domain/) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 148.64 Td
-( |   |- Entities/   \(Payment, Partner, User, Role,) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 135.89 Td
-( |   |              ReconBatch, ReconDiff, AuditLog\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 123.14 Td
-( |   |- Enums/      \(Direction, PaymentStatus, ReconStatus,) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 110.39 Td
-( |   |              ErrorCategory, DiffType\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 97.64 Td
-( |   |- Services/   \(ReconciliationService, ImportService,) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 84.89 Td
-( |                   ErrorNormalizer, ReportService, AuditService\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 72.14 Td
-( |- Infrastructure/) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 59.39 Td
-( |   |- Persistence/    \(AppDbContext, EF Core configs\)) Tj
-ET
-endstream
-endobj
-25 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 26 0 R >>
-endobj
-26 0 obj
-<< /Length 8014 >>
-stream
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 773.39 Td
-( |   |- Adapters/       \(WuAdapter, MoneyGramAdapter, ...\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 760.64 Td
-( |- Application/) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 747.89 Td
-( |   |- Dtos/, Queries/, Commands/) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 735.14 Td
-( |- Api/) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 722.39 Td
-( |   |- Controllers/    \(PaymentsController, ReconciliationController,) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 709.64 Td
-( |                       ReportsController, AuthController\)) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 696.89 Td
-( |   |- Program.cs) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 684.14 Td
-( |- appsettings.json) Tj
-ET
-BT
-/F2 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 661.39 Td
-(Asosiy entity: Payment.cs \(qisqartma\)) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 640.64 m 49.00 651.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 642.64 Td
-(public class Payment) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 627.89 m 49.00 638.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 629.89 Td
-({) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 615.14 m 49.00 625.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 617.14 Td
-(    public long Id { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 602.39 m 49.00 612.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 604.39 Td
 (    public string PaymentRef { get; set; } = default!;) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 589.64 m 49.00 600.14 l S
+49.00 745.89 m 49.00 756.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 591.64 Td
+55.00 747.89 Td
 (    public int PartnerId { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 576.89 m 49.00 587.39 l S
+49.00 733.14 m 49.00 743.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 578.89 Td
+55.00 735.14 Td
 (    public Partner? Partner { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 564.14 m 49.00 574.64 l S
+49.00 720.39 m 49.00 730.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 566.14 Td
+55.00 722.39 Td
 (    public string? PartnerTxnId { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 551.39 m 49.00 561.89 l S
+49.00 707.64 m 49.00 718.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 553.39 Td
+55.00 709.64 Td
 (    public string? Mtcn { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 538.64 m 49.00 549.14 l S
+49.00 694.89 m 49.00 705.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 540.64 Td
+55.00 696.89 Td
 (    public Direction Direction { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 525.89 m 49.00 536.39 l S
+49.00 682.14 m 49.00 692.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 527.89 Td
+55.00 684.14 Td
 (    public PaymentStatus Status { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 513.14 m 49.00 523.64 l S
+49.00 669.39 m 49.00 679.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 515.14 Td
+55.00 671.39 Td
 () Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 500.39 m 49.00 510.89 l S
+49.00 656.64 m 49.00 667.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 502.39 Td
-(    public string? CorridorFrom { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 487.64 m 49.00 498.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 489.64 Td
-(    public string? CorridorTo { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 474.89 m 49.00 485.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 476.89 Td
+55.00 658.64 Td
 (    public string? SendCurrency { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 462.14 m 49.00 472.64 l S
+49.00 643.89 m 49.00 654.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 464.14 Td
+55.00 645.89 Td
 (    public decimal? SendAmount { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 449.39 m 49.00 459.89 l S
+49.00 631.14 m 49.00 641.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 451.39 Td
+55.00 633.14 Td
 (    public string? RecvCurrency { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 436.64 m 49.00 447.14 l S
+49.00 618.39 m 49.00 628.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 438.64 Td
+55.00 620.39 Td
 (    public decimal? RecvAmount { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 423.89 m 49.00 434.39 l S
+49.00 605.64 m 49.00 616.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 425.89 Td
+55.00 607.64 Td
 (    public decimal? AmountUzs { get; set; }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 411.14 m 49.00 421.64 l S
+49.00 592.89 m 49.00 603.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 413.14 Td
-(    public decimal? FxRate { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 398.39 m 49.00 408.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 400.39 Td
-(    public decimal? UsdRate { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 385.64 m 49.00 396.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 387.64 Td
-(    public decimal? Commission { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 372.89 m 49.00 383.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 374.89 Td
+55.00 594.89 Td
 () Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 360.14 m 49.00 370.64 l S
+49.00 580.14 m 49.00 590.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 362.14 Td
-(    // jo'natuvchi va qabul qiluvchi PII \(shifrlanadi\)) Tj
+55.00 582.14 Td
+(    // PII \(shifrlanadi\)) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 347.39 m 49.00 357.89 l S
+49.00 567.39 m 49.00 577.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 349.39 Td
+55.00 569.39 Td
 (    public string? SenderFullName { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 554.64 m 49.00 565.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 556.64 Td
+(    public string? SenderPhone { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 541.89 m 49.00 552.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 543.89 Td
+(    public string? SenderCountry { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 529.14 m 49.00 539.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 531.14 Td
+(    public string? ReceiverFullName { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 516.39 m 49.00 526.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 518.39 Td
+(    public string? ReceiverPhone { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 503.64 m 49.00 514.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 505.64 Td
+(    public string? ReceiverCountry { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 490.89 m 49.00 501.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 492.89 Td
+() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 478.14 m 49.00 488.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 480.14 Td
+(    public ErrorCategory? ErrorCategory { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 465.39 m 49.00 475.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 467.39 Td
+(    public string? ErrorCode { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 452.64 m 49.00 463.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 454.64 Td
+(    public string? ErrorMessage { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 439.89 m 49.00 450.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 441.89 Td
+() Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 427.14 m 49.00 437.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 429.14 Td
+(    public DateTime? SentAt { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 414.39 m 49.00 424.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 416.39 Td
+(    public DateTime? PaidAt { get; set; }) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 401.64 m 49.00 412.14 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 403.64 Td
+(    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 388.89 m 49.00 399.39 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 390.89 Td
+(    public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 376.14 m 49.00 386.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 378.14 Td
+(}) Tj
+ET
+BT
+/F2 10.50 Tf
+0.000 0.000 0.000 rg
+55.00 355.39 Td
+(Enumlar) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3255,7 +2444,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 336.64 Td
-(    public string? SenderPassport { get; set; }) Tj
+(public enum Direction { Incoming, Outgoing }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3264,7 +2453,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 323.89 Td
-(    public string? SenderPhone { get; set; }) Tj
+() Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3273,7 +2462,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 311.14 Td
-(    public string? SenderCountry { get; set; }) Tj
+(public enum PaymentStatus {) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3282,7 +2471,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 298.39 Td
-(    public string? ReceiverFullName { get; set; }) Tj
+(    Created, Sent, Pending, Paid, Cancelled, Failed) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3291,7 +2480,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 285.64 Td
-(    public string? ReceiverPassport { get; set; }) Tj
+(}) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3300,7 +2489,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 272.89 Td
-(    public string? ReceiverPhone { get; set; }) Tj
+() Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3309,7 +2498,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 260.14 Td
-(    public string? ReceiverCountry { get; set; }) Tj
+(public enum ErrorCategory {) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3318,7 +2507,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 247.39 Td
-() Tj
+(    KYC_FAIL, INSUFFICIENT_FUNDS, BENEFICIARY_NOT_FOUND,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3327,7 +2516,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 234.64 Td
-(    public string? PurposeCode { get; set; }) Tj
+(    LIMIT_EXCEEDED, TIMEOUT, CANCELLED_BY_SENDER, OTHER) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3336,210 +2525,132 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 221.89 Td
-(    public string SanctionsCheck { get; set; } = "clean";) Tj
+(}) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 207.14 m 49.00 217.64 l S
+BT
+/F2 15.00 Tf
+0.100 0.200 0.500 rg
+55.00 189.64 Td
+(11. API endpointlar) Tj
+ET
+0.55 0.6 0.75 RG
+0.6 w
+55.00 178.14 m 545.28 178.14 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 209.14 Td
-(    public short? AmlScore { get; set; }) Tj
+0.000 0.000 0.000 rg
+55.00 157.64 Td
+(+--------+------------------------------------+----------------------+) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 194.39 m 49.00 204.89 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 196.39 Td
-() Tj
+0.000 0.000 0.000 rg
+55.00 144.89 Td
+(| Metod  | URL                                | Rol\(lar\)             |) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 181.64 m 49.00 192.14 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 183.64 Td
-(    public ErrorCategory? ErrorCategory { get; set; }) Tj
+0.000 0.000 0.000 rg
+55.00 132.14 Td
+(+--------+------------------------------------+----------------------+) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 168.89 m 49.00 179.39 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 170.89 Td
-(    public string? ErrorCode { get; set; }) Tj
+0.000 0.000 0.000 rg
+55.00 119.39 Td
+(| POST   | /api/auth/login                    | hammasi              |) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 156.14 m 49.00 166.64 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 158.14 Td
-(    public string? ErrorMessage { get; set; }) Tj
+0.000 0.000 0.000 rg
+55.00 106.64 Td
+(| GET    | /api/payments                      | operator             |) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 143.39 m 49.00 153.89 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 145.39 Td
-() Tj
+0.000 0.000 0.000 rg
+55.00 93.89 Td
+(|        |   ?partner=&status=&from=&to=&q=   |                      |) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 130.64 m 49.00 141.14 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 132.64 Td
-(    public ReconStatus ReconStatus { get; set; } = ReconStatus.NotChecked;) Tj
+0.000 0.000 0.000 rg
+55.00 81.14 Td
+(|        |   &error_cat=&page=&limit=         |                      |) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 117.89 m 49.00 128.39 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 119.89 Td
-(    public long? ReconBatchId { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 105.14 m 49.00 115.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 107.14 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 92.39 m 49.00 102.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 94.39 Td
-(    public DateTime? SentAt { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 79.64 m 49.00 90.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 81.64 Td
-(    public DateTime? PaidAt { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 66.89 m 49.00 77.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 68.89 Td
-(    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;) Tj
+0.000 0.000 0.000 rg
+55.00 68.39 Td
+(| GET    | /api/payments/{id}                 | operator             |) Tj
 ET
 endstream
 endobj
-27 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 28 0 R >>
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
 endobj
-28 0 obj
-<< /Length 7657 >>
+24 0 obj
+<< /Length 5974 >>
 stream
-0.85 0.88 0.95 RG
-1.5 w
-49.00 771.39 m 49.00 781.89 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
+0.000 0.000 0.000 rg
 55.00 773.39 Td
-(    public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;) Tj
+(| GET    | /api/payments/export.xlsx          | operator             |) Tj
 ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 758.64 m 49.00 769.14 l S
 BT
 /F1 8.50 Tf
-0.100 0.100 0.100 rg
+0.000 0.000 0.000 rg
 55.00 760.64 Td
-(}) Tj
+(|        |   ?partner=&status=&from=&to=      |                      |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 747.89 Td
+(| GET    | /api/errors/stats                  | operator             |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 735.14 Td
+(|        |   ?from=&to=&partner=              |                      |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 722.39 Td
+(| GET    | /api/partners                      | operator, admin      |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 709.64 Td
+(| GET    | /api/admin/users                   | admin                |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 696.89 Td
+(| POST   | /api/admin/users                   | admin                |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 684.14 Td
+(| PUT    | /api/admin/partners/{id}           | admin                |) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 671.39 Td
+(+--------+------------------------------------+----------------------+) Tj
 ET
 BT
 /F2 10.50 Tf
 0.000 0.000 0.000 rg
-55.00 737.89 Td
-(ReconBatch.cs va ReconDiff.cs) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 717.14 m 49.00 727.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 719.14 Td
-(public class ReconBatch) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 704.39 m 49.00 714.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 706.39 Td
-({) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 691.64 m 49.00 702.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 693.64 Td
-(    public long Id { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 678.89 m 49.00 689.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 680.89 Td
-(    public int PartnerId { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 666.14 m 49.00 676.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 668.14 Td
-(    public DateOnly BusinessDate { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 653.39 m 49.00 663.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 655.39 Td
-(    public string? FileName { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 640.64 m 49.00 651.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 642.64 Td
-(    public int TotalPartner { get; set; }) Tj
+55.00 648.64 Td
+(GET /api/errors/stats javobi \(namuna\)) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3548,7 +2659,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 629.89 Td
-(    public int TotalBank { get; set; }) Tj
+({) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3557,7 +2668,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 617.14 Td
-(    public int Matched { get; set; }) Tj
+(  "from": "2026-06-01",) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3566,7 +2677,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 604.39 Td
-(    public int Mismatch { get; set; }) Tj
+(  "to":   "2026-06-14",) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3575,7 +2686,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 591.64 Td
-(    public int MissingInBank { get; set; }) Tj
+(  "total": 81,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3584,7 +2695,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 578.89 Td
-(    public int MissingInPartner { get; set; }) Tj
+(  "by_category": [) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3593,7 +2704,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 566.14 Td
-(    public string Status { get; set; } = "open";) Tj
+(    {) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3602,7 +2713,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 553.39 Td
-(    public int? CreatedBy { get; set; }) Tj
+(      "category": "KYC_FAIL",) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3611,7 +2722,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 540.64 Td
-(    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;) Tj
+(      "count": 25,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3620,7 +2731,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 527.89 Td
-(    public List<ReconDiff> Diffs { get; set; } = new\(\);) Tj
+(      "by_partner": { "P1": 12, "P2": 4, "P3": 8, "P4": 1 }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3629,7 +2740,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 515.14 Td
-(}) Tj
+(    },) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3638,7 +2749,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 502.39 Td
-() Tj
+(    {) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3647,7 +2758,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 489.64 Td
-(public class ReconDiff) Tj
+(      "category": "TIMEOUT",) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3656,7 +2767,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 476.89 Td
-({) Tj
+(      "count": 24,) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3665,7 +2776,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 464.14 Td
-(    public long Id { get; set; }) Tj
+(      "by_partner": { "P1": 7, "P2": 11, "P3": 4, "P4": 2 }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3674,7 +2785,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 451.39 Td
-(    public long BatchId { get; set; }) Tj
+(    }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3683,7 +2794,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 438.64 Td
-(    public long? PaymentId { get; set; }) Tj
+(    /* ... qolgan toifalar ... */) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3692,7 +2803,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 425.89 Td
-(    public DiffType DiffType { get; set; }) Tj
+(  ]) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -3701,880 +2812,461 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 413.14 Td
-(    public string? PartnerRecordJson { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 398.39 m 49.00 408.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 400.39 Td
-(    public string? BankRecordJson { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 385.64 m 49.00 396.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 387.64 Td
-(    public string Resolution { get; set; } = "pending";) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 372.89 m 49.00 383.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 374.89 Td
-(    public string? Note { get; set; }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 360.14 m 49.00 370.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 362.14 Td
 (}) Tj
-ET
-BT
-/F2 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 339.39 Td
-(Enumlar) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 318.64 m 49.00 329.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 320.64 Td
-(public enum Direction { Incoming, Outgoing }) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 305.89 m 49.00 316.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 307.89 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 293.14 m 49.00 303.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 295.14 Td
-(public enum PaymentStatus {) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 280.39 m 49.00 290.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 282.39 Td
-(    Created, Sent, Pending, Paid, Cancelled, Failed, Refunded) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 267.64 m 49.00 278.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 269.64 Td
-(}) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 254.89 m 49.00 265.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 256.89 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 242.14 m 49.00 252.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 244.14 Td
-(public enum ReconStatus {) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 229.39 m 49.00 239.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 231.39 Td
-(    NotChecked, Matched, AmountMismatch,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 216.64 m 49.00 227.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 218.64 Td
-(    MissingInBank, MissingInPartner) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 203.89 m 49.00 214.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 205.89 Td
-(}) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 191.14 m 49.00 201.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 193.14 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 178.39 m 49.00 188.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 180.39 Td
-(public enum ErrorCategory {) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 165.64 m 49.00 176.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 167.64 Td
-(    KYC_FAIL, AML_HOLD, BENEFICIARY_NOT_FOUND, LIMIT_EXCEEDED,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 152.89 m 49.00 163.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 154.89 Td
-(    INSUFFICIENT_FUNDS, TECH_TIMEOUT, CANCELLED_BY_SENDER,) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 140.14 m 49.00 150.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 142.14 Td
-(    FX_RATE_MISMATCH, OTHER) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 127.39 m 49.00 137.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 129.39 Td
-(}) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 114.64 m 49.00 125.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 116.64 Td
-() Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 101.89 m 49.00 112.39 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 103.89 Td
-(public enum DiffType {) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 89.14 m 49.00 99.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 91.14 Td
-(    AmountMismatch, MissingInBank, MissingInPartner) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 76.39 m 49.00 86.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 78.39 Td
-(}) Tj
-ET
-endstream
-endobj
-29 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 30 0 R >>
-endobj
-30 0 obj
-<< /Length 5802 >>
-stream
-BT
-/F2 15.00 Tf
-0.100 0.200 0.500 rg
-55.00 766.89 Td
-(13. API endpointlar) Tj
-ET
-0.55 0.6 0.75 RG
-0.6 w
-55.00 755.39 m 545.28 755.39 l S
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 734.89 Td
-(+--------+------------------------------------+----------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 722.14 Td
-(| Metod  | URL                                | Rol\(lar\)             |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 709.39 Td
-(+--------+------------------------------------+----------------------+) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 696.64 Td
-(| POST   | /api/auth/login                    | hammasi              |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 683.89 Td
-(| GET    | /api/payments                      | sverka, compliance,  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 671.14 Td
-(|        |   ?partner=&status=&from=&to=&q=   | auditor              |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 658.39 Td
-(|        |   &recon=&error_cat=&page=&limit=  |                      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 645.64 Td
-(| GET    | /api/payments/{id}                 | sverka, compliance,  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 632.89 Td
-(|        |                                    | auditor              |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 620.14 Td
-(| POST   | /api/payments/{id}/retry           | sverka, compliance   |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 607.39 Td
-(| GET    | /api/errors/stats                  | compliance           |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 594.64 Td
-(|        |   ?from=&to=&partner=              |                      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 581.89 Td
-(| POST   | /api/recon/upload                  | sverka               |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 569.14 Td
-(|        |   \(multipart: file + partner_id\)   |                      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 556.39 Td
-(| GET    | /api/recon/batches                 | sverka, auditor      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 543.64 Td
-(| GET    | /api/recon/batches/{id}            | sverka, auditor      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 530.89 Td
-(| GET    | /api/recon/batches/{id}/diffs      | sverka               |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 518.14 Td
-(| POST   | /api/recon/diffs/{id}/resolve      | sverka               |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 505.39 Td
-(| POST   | /api/recon/batches/{id}/sign       | sverka               |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 492.64 Td
-(| GET    | /api/recon/batches/{id}/act.pdf    | sverka, auditor      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 479.89 Td
-(| GET    | /api/reports/nbu-402.xlsx          | auditor              |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 467.14 Td
-(|        |   ?from=&to=                       |                      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 454.39 Td
-(| GET    | /api/reports/aml.xlsx              | compliance, auditor  |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 441.64 Td
-(| GET    | /api/audit                         | auditor              |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 428.89 Td
-(|        |   ?user=&action=&from=&to=         |                      |) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 416.14 Td
-(+--------+------------------------------------+----------------------+) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 383.89 Td
-(14. Frontend \(Vue 3\)) Tj
+55.00 380.89 Td
+(12. Frontend ekranlar \(Vue 3\)) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 372.39 m 545.28 372.39 l S
+55.00 369.39 m 545.28 369.39 l S
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 353.39 Td
-(SPA, Composition API, Pinia + Vue Router. Asosiy sahifalar:) Tj
+55.00 350.39 Td
+(SPA, Composition API, Pinia + Vue Router. UI kutubxonasi: Element Plus.) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 332.89 Td
+55.00 329.89 Td
 (frontend/src/views/) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 320.14 Td
+55.00 317.14 Td
 (  LoginView.vue) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 307.39 Td
+55.00 304.39 Td
 (  PaymentsView.vue          \(F1, F2, F3 - asosiy ish ekrani\)) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 294.64 Td
-(  PaymentModalView.vue      \(F4 - to'liq tafsilot\)) Tj
+55.00 291.64 Td
+(  PaymentDetailModal.vue    \(F4 - tafsilot\)) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 281.89 Td
-(  ReconciliationView.vue    \(F5, F6, F7 - sverka\)) Tj
+55.00 278.89 Td
+(  ErrorsDashboardView.vue   \(F5, F6 - xatolar paneli\)) Tj
 ET
 BT
 /F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 269.14 Td
-(    |- ReconUpload.vue) Tj
+55.00 266.14 Td
+(  AdminView.vue             \(F8 - admin uchun\)) Tj
 ET
 BT
-/F1 8.50 Tf
+/F2 10.50 Tf
 0.000 0.000 0.000 rg
-55.00 256.39 Td
-(    |- ReconBatchList.vue) Tj
+55.00 243.39 Td
+(Asosiy ekranlar) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 243.64 Td
-(    |- ReconBatchDetail.vue) Tj
+55.00 226.14 Td
+(- LoginView: login va parol; muvaffaqiyatdan keyin /payments ga yo'naltiradi.) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 230.89 Td
-(  ErrorsDashboard.vue       \(F8 - xato statistikasi\)) Tj
+55.00 211.14 Td
+(- PaymentsView: jadval. Ustunlar - sana, partnyor, status, yo'nalish, summa va) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 218.14 Td
-(  ReportsView.vue           \(F10 - NBU 402, AML\)) Tj
+55.00 196.14 Td
+(  valyuta, mijoz F.I.Sh, error_category. Yuqorida filtr va qidiruv qatori,) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 205.39 Td
-(  AuditView.vue             \(F9 - audit jurnali\)) Tj
+55.00 181.14 Td
+(  sahifalash \(pagination\).) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 192.64 Td
-(  AdminView.vue             \(F11 - foydalanuvchilar, partnyorlar\)) Tj
+55.00 166.14 Td
+(- PaymentDetailModal: barcha maydonlar; partnyor xato matni; passport va telefon) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 151.14 Td
+(  maskalangan ko'rinishda.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 136.14 Td
+(- ErrorsDashboardView: yuqorida toifa x partnyor jadvali \(7-bo'limdagidek\);) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 121.14 Td
+(  pastda - tanlangan kesim bo'yicha xato yozuvlar ro'yxati.) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 106.14 Td
+(- AdminView: foydalanuvchilar va partnyorlarni boshqarish \(CRUD\).) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 160.39 Td
-(15. Xavfsizlik va kirish nazorati) Tj
+55.00 76.14 Td
+(13. Xavfsizlik va kirish nazorati) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 148.89 m 545.28 148.89 l S
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 129.89 Td
-(- RBAC - har bir endpoint rol\(lar\)i bilan himoyalangan; tekshiruv serverda.) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 114.89 Td
-(- Parol BCrypt hash, JWT amal qilish muddati 8 soat.) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 99.89 Td
-(- PII \(passport, telefon\) ma'lumotlar bazasida shifrlanadi \(AES-256, kalit Vault) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 84.89 Td
-(  yoki AWS KMS'da\).) Tj
-ET
-BT
-/F1 10.00 Tf
-0.000 0.000 0.000 rg
-55.00 69.89 Td
-(- Modal'da karta/passport maskalangan; to'liq qiymat faqat compliance va sverka) Tj
-ET
+55.00 64.64 m 545.28 64.64 l S
 endstream
 endobj
-31 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 32 0 R >>
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 26 0 R >>
 endobj
-32 0 obj
-<< /Length 5621 >>
+26 0 obj
+<< /Length 5374 >>
 stream
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 771.89 Td
-(  rolida ko'rinadi.) Tj
+(- RBAC - har bir endpoint rol bilan himoyalangan; tekshiruv serverda bajariladi.) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 756.89 Td
-(- Audit_log o'chirilmaydi; faqat append. Saqlash 7 yil.) Tj
+(- Parol BCrypt hash bilan saqlanadi, JWT amal qilish muddati 8 soat.) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 741.89 Td
-(- Sanksiya ro'yxati \(OFAC/EU/NBU\) bilan har bir o'tkazma tekshiriladi.) Tj
+(- PII \(passport, telefon\) ma'lumotlar bazasida AES-256 bilan shifrlanadi \(kalit) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
 55.00 726.89 Td
-(- CORS faqat ishonchli ichki domenga ochiq, HTTPS majburiy.) Tj
+(  Vault yoki AWS KMS'da\).) Tj
 ET
 BT
-/F2 15.00 Tf
-0.100 0.200 0.500 rg
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
+55.00 711.89 Td
+(- Modal'da telefon va passport maskalangan; to'liq qiymat rolga bog'liq holda) Tj
+ET
+BT
+/F1 10.00 Tf
+0.000 0.000 0.000 rg
 55.00 696.89 Td
-(16. Bajarilish ketma-ketligi \(rejasi\)) Tj
-ET
-0.55 0.6 0.75 RG
-0.6 w
-55.00 685.39 m 545.28 685.39 l S
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 664.89 Td
-(Sprint 1 \(yadro, 2 hafta\):) Tj
+(  ko'rinadi.) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 652.14 Td
-(  - .NET 10 va Vue 3 skelet, JWT, RBAC.) Tj
+55.00 681.89 Td
+(- CORS faqat ichki domenga ochiq, HTTPS majburiy.) Tj
 ET
 BT
-/F1 8.50 Tf
+/F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 639.39 Td
-(  - DB migratsiyalari \(payments, partners, users, roles, audit_log\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 626.64 Td
-(  - Login, foydalanuvchilar va partnyorlar boshqaruvi.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 613.89 Td
-() Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 601.14 Td
-(Sprint 2 \(asosiy ko'rish, 2 hafta\):  -> M2 ning bir qismini yopadi) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 588.39 Td
-(  - Yagona o'tkazmalar ro'yxati \(F1\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 575.64 Td
-(  - Filtr va qidiruv \(F2, F3\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 562.89 Td
-(  - To'liq tafsilot modali \(F4\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 550.14 Td
-() Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 537.39 Td
-(Sprint 3 \(sverka, 2-3 hafta\):  -> M1 ni yopadi) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 524.64 Td
-(  - Partnyor adapterlari \(kamida 3 ta partnyor uchun parser\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 511.89 Td
-(  - Matching engine, recon_batches, recon_diffs.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 499.14 Td
-(  - Fayl yuklash UI, farqlar ekrani, izoh va resolve.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 486.39 Td
-(  - Sverka akti PDF.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 473.64 Td
-() Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 460.89 Td
-(Sprint 4 \(xatolar va NBU, 2 hafta\):  -> M2 va M3 ni yopadi) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 448.14 Td
-(  - Xato me'yorlashtiruvchi, statistika dashboardi \(F8\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 435.39 Td
-(  - NBU 402 va AML hisobotlari \(F10\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 422.64 Td
-(  - Audit jurnali ekrani \(F9\).) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 409.89 Td
-() Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 397.14 Td
-(Sprint 5 \(qolgan partnyor adapterlari + qattiqlash, 1-2 hafta\):) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 384.39 Td
-(  - Qolgan partnyor adapterlari.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 371.64 Td
-(  - PII shifrlash, sanksiya integratsiyasi, yuklamani sinash.) Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 358.89 Td
-() Tj
-ET
-BT
-/F1 8.50 Tf
-0.000 0.000 0.000 rg
-55.00 346.14 Td
-(Umumiy taxminiy muddat: 9-11 hafta.) Tj
+55.00 666.89 Td
+(- Login va eksport harakatlari logga yoziladi \(oddiy log fayl\).) Tj
 ET
 BT
 /F2 15.00 Tf
 0.100 0.200 0.500 rg
-55.00 313.89 Td
-(17. Loyihani ishga tushirish) Tj
+55.00 636.89 Td
+(14. Bajarilish rejasi va ishga tushirish) Tj
 ET
 0.55 0.6 0.75 RG
 0.6 w
-55.00 302.39 m 545.28 302.39 l S
+55.00 625.39 m 545.28 625.39 l S
 BT
-/F2 10.50 Tf
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 595.39 Td
+(14.1. Sprintlar bo'yicha reja) Tj
+ET
+BT
+/F1 8.50 Tf
 0.000 0.000 0.000 rg
-55.00 277.89 Td
-(Backend \(.NET 10\)) Tj
+55.00 573.89 Td
+(Sprint 1 \(skelet, 1 hafta\):) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 561.14 Td
+(  - .NET 10 va Vue 3 skeletlari, JWT, RBAC.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 548.39 Td
+(  - DB migratsiyalari \(partners, users, roles, payments\).) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 535.64 Td
+(  - Login va admin: foydalanuvchilar va partnyorlarni boshqarish.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 522.89 Td
+(  - 1 ta partnyor adapteri + import \(test ma'lumotlar\).) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 510.14 Td
+() Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 497.39 Td
+(Sprint 2 \(asosiy ko'rish, 1 hafta\):) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 484.64 Td
+(  - F1 - tranzaksiyalar ro'yxati \(jadval, sahifalash\).) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 471.89 Td
+(  - F2, F3 - filtr va qidiruv.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 459.14 Td
+(  - F4 - tafsilot modali.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 446.39 Td
+(  - F7 - Excel eksport.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 433.64 Td
+() Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 420.89 Td
+(Sprint 3 \(xatolar paneli, 1 hafta\):) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 408.14 Td
+(  - F5 - xatolar paneli \(toifa x partnyor jadvali\).) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 395.39 Td
+(  - F6 - tanlangan kesim bo'yicha xato yozuvlar ro'yxati.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 382.64 Td
+(  - ErrorNormalizer servisi.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 369.89 Td
+(  - Qolgan partnyor adapterlari \(3-4 ta jami\).) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 357.14 Td
+() Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 344.39 Td
+(Sprint 4 \(sayqal va qabul, 1 hafta\):) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 331.64 Td
+(  - PII shifrlash, real ma'lumotlar bilan sinov.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 318.89 Td
+(  - Xavfsizlik tekshiruvi \(CORS, JWT, RBAC\).) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 306.14 Td
+(  - Foydalanuvchi qabuli \(UAT\), boshliq tomonidan qabul.) Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 293.39 Td
+() Tj
+ET
+BT
+/F1 8.50 Tf
+0.000 0.000 0.000 rg
+55.00 280.64 Td
+(Umumiy taxminiy muddat: 4 hafta.) Tj
+ET
+BT
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 252.39 Td
+(14.2. Backend \(.NET 10\)) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 257.14 m 49.00 267.64 l S
+49.00 228.89 m 49.00 239.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 259.14 Td
-(dotnet new webapi -n InternationalTransfers.Api) Tj
+55.00 230.89 Td
+(dotnet new webapi -n PartnerPayments.Api) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 244.39 m 49.00 254.89 l S
+49.00 216.14 m 49.00 226.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 246.39 Td
-(cd InternationalTransfers.Api) Tj
+55.00 218.14 Td
+(cd PartnerPayments.Api) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 231.64 m 49.00 242.14 l S
+49.00 203.39 m 49.00 213.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 233.64 Td
+55.00 205.39 Td
 (dotnet add package Microsoft.EntityFrameworkCore) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 218.89 m 49.00 229.39 l S
+49.00 190.64 m 49.00 201.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 220.89 Td
+55.00 192.64 Td
 (dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 206.14 m 49.00 216.64 l S
+49.00 177.89 m 49.00 188.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 208.14 Td
+55.00 179.89 Td
 (dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 193.39 m 49.00 203.89 l S
+49.00 165.14 m 49.00 175.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 195.39 Td
+55.00 167.14 Td
 (dotnet add package BCrypt.Net-Next) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 180.64 m 49.00 191.14 l S
+49.00 152.39 m 49.00 162.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 182.64 Td
-(dotnet add package ClosedXML        # Excel hisobot) Tj
+55.00 154.39 Td
+(dotnet add package ClosedXML        # Excel eksport) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 167.89 m 49.00 178.39 l S
+49.00 139.64 m 49.00 150.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 169.89 Td
-(dotnet add package QuestPDF         # PDF \(sverka akti\)) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 155.14 m 49.00 165.64 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 157.14 Td
+55.00 141.64 Td
 () Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 142.39 m 49.00 152.89 l S
+49.00 126.89 m 49.00 137.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 144.39 Td
+55.00 128.89 Td
 (dotnet ef migrations add Init) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 129.64 m 49.00 140.14 l S
+49.00 114.14 m 49.00 124.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 131.64 Td
+55.00 116.14 Td
 (dotnet ef database update) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 116.89 m 49.00 127.39 l S
+49.00 101.39 m 49.00 111.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 118.89 Td
+55.00 103.39 Td
 (dotnet run) Tj
 ET
 BT
-/F2 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 96.14 Td
-(Frontend \(Vue 3\)) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 75.39 m 49.00 85.89 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 77.39 Td
-(npm create vite@latest frontend -- --template vue) Tj
-ET
-0.85 0.88 0.95 RG
-1.5 w
-49.00 62.64 m 49.00 73.14 l S
-BT
-/F1 8.50 Tf
-0.100 0.100 0.100 rg
-55.00 64.64 Td
-(cd frontend) Tj
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 75.14 Td
+(14.3. Frontend \(Vue 3\)) Tj
 ET
 endstream
 endobj
-33 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 34 0 R >>
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 28 0 R >>
 endobj
-34 0 obj
-<< /Length 1689 >>
+28 0 obj
+<< /Length 1991 >>
 stream
 0.85 0.88 0.95 RG
 1.5 w
@@ -4583,7 +3275,7 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 773.39 Td
-(npm install axios pinia vue-router element-plus) Tj
+(npm create vite@latest frontend -- --template vue) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
@@ -4592,133 +3284,145 @@ BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
 55.00 760.64 Td
-(npm run dev   # http://localhost:5173) Tj
-ET
-BT
-/F2 10.50 Tf
-0.000 0.000 0.000 rg
-55.00 737.89 Td
-(appsettings.json \(namuna\)) Tj
+(cd frontend) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 717.14 m 49.00 727.64 l S
+49.00 745.89 m 49.00 756.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 719.14 Td
+55.00 747.89 Td
+(npm install axios pinia vue-router element-plus) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 733.14 m 49.00 743.64 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 735.14 Td
+(npm run dev   # http://localhost:5173) Tj
+ET
+BT
+/F2 12.00 Tf
+0.140 0.180 0.420 rg
+55.00 706.89 Td
+(14.4. appsettings.json \(namuna\)) Tj
+ET
+0.85 0.88 0.95 RG
+1.5 w
+49.00 683.39 m 49.00 693.89 l S
+BT
+/F1 8.50 Tf
+0.100 0.100 0.100 rg
+55.00 685.39 Td
 ({) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 704.39 m 49.00 714.89 l S
+49.00 670.64 m 49.00 681.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 706.39 Td
+55.00 672.64 Td
 (  "ConnectionStrings": {) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 691.64 m 49.00 702.14 l S
+49.00 657.89 m 49.00 668.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 693.64 Td
-(    "Default": "Host=localhost;Port=5432;Database=intl_transfers;" +) Tj
+55.00 659.89 Td
+(    "Default": "Host=localhost;Port=5432;Database=partner_payments;") Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 678.89 m 49.00 689.39 l S
+49.00 645.14 m 49.00 655.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 680.89 Td
-(               "Username=postgres;Password=postgres") Tj
+55.00 647.14 Td
+(               + "Username=postgres;Password=postgres") Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 666.14 m 49.00 676.64 l S
+49.00 632.39 m 49.00 642.89 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 668.14 Td
+55.00 634.39 Td
 (  },) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 653.39 m 49.00 663.89 l S
+49.00 619.64 m 49.00 630.14 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 655.39 Td
+55.00 621.64 Td
 (  "Jwt": { "Key": "BU_YERGA_KUCHLI_MAXFIY_KALIT_QOYING_32+" },) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 640.64 m 49.00 651.14 l S
+49.00 606.89 m 49.00 617.39 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 642.64 Td
+55.00 608.89 Td
 (  "Encryption": { "PiiKeyId": "vault://kv/pii-key" }) Tj
 ET
 0.85 0.88 0.95 RG
 1.5 w
-49.00 627.89 m 49.00 638.39 l S
+49.00 594.14 m 49.00 604.64 l S
 BT
 /F1 8.50 Tf
 0.100 0.100 0.100 rg
-55.00 629.89 Td
+55.00 596.14 Td
 (}) Tj
 ET
 BT
 /F1 10.00 Tf
 0.000 0.000 0.000 rg
-55.00 602.64 Td
+55.00 568.89 Td
 (--- Hujjat yakuni ---) Tj
 ET
 endstream
 endobj
 xref
-0 35
+0 29
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000218 00000 n 
-0000000313 00000 n 
-0000000413 00000 n 
-0000000555 00000 n 
-0000001366 00000 n 
-0000001508 00000 n 
-0000003300 00000 n 
-0000003443 00000 n 
-0000008332 00000 n 
-0000008476 00000 n 
-0000014034 00000 n 
-0000014178 00000 n 
-0000019618 00000 n 
-0000019762 00000 n 
-0000026115 00000 n 
-0000026259 00000 n 
-0000031471 00000 n 
-0000031615 00000 n 
-0000037566 00000 n 
-0000037710 00000 n 
-0000046407 00000 n 
-0000046551 00000 n 
-0000054057 00000 n 
-0000054201 00000 n 
-0000062268 00000 n 
-0000062412 00000 n 
-0000070122 00000 n 
-0000070266 00000 n 
-0000076121 00000 n 
-0000076265 00000 n 
-0000081939 00000 n 
-0000082083 00000 n 
+0000000197 00000 n 
+0000000292 00000 n 
+0000000392 00000 n 
+0000000534 00000 n 
+0000001346 00000 n 
+0000001488 00000 n 
+0000003021 00000 n 
+0000003164 00000 n 
+0000008133 00000 n 
+0000008277 00000 n 
+0000013402 00000 n 
+0000013546 00000 n 
+0000020029 00000 n 
+0000020173 00000 n 
+0000025759 00000 n 
+0000025903 00000 n 
+0000032430 00000 n 
+0000032574 00000 n 
+0000039544 00000 n 
+0000039688 00000 n 
+0000047379 00000 n 
+0000047523 00000 n 
+0000053550 00000 n 
+0000053694 00000 n 
+0000059121 00000 n 
+0000059265 00000 n 
 trailer
-<< /Size 35 /Root 1 0 R >>
+<< /Size 29 /Root 1 0 R >>
 startxref
-83825
+61309
 %%EOF
